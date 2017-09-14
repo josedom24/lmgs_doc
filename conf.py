@@ -32,7 +32,7 @@
 import recommonmark
 from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
-
+github_doc_root = ''
 # At the bottom of conf.py
 def setup(app):
     app.add_config_value('recommonmark_config', {
