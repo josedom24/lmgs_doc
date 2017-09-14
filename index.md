@@ -8,8 +8,9 @@ De acuerdo a la normativa reguladora del ciclo formativo, el módulo profesional
 
 El índice de contenidos que vamos a estudiar será:
 
+```eval_rst
 .. toctree::
    :maxdepth: 2
 
    unidades/index
-
+```
