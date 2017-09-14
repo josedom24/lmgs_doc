@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Lenguajes de marcas documentation build configuration file, created by
+# Implantación de aplicaiones web documentation build configuration file, created by
 # sphinx-quickstart on Sun Sep 18 18:07:38 2016.
 #
 # This file is execfile()d with the current directory set to its
@@ -29,6 +29,21 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+import recommonmark
+from recommonmark.parser import CommonMarkParser
+from recommonmark.transform import AutoStructify
+
+# At the bottom of conf.py
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+        'url_resolver': lambda url: github_doc_root + url,
+        'auto_toc_tree_section': 'Contents',
+        'enable_eval_rst': True,
+        'enable_auto_doc_ref': True,
+    }, True)
+    app.add_transform(AutoStructify)
+
+
 extensions = [
 #    'sphinx.ext.githubpages',
 ]
@@ -40,7 +55,10 @@ templates_path = ['_templates']
 # You can specify multiple suffix as a list of string:
 #
 # source_suffix = ['.rst', '.md']
-source_suffix = '.rst'
+source_suffix = ['.rst', '.md']
+source_parsers = {
+   '.md': CommonMarkParser
+}
 
 # The encoding of source files.
 #
@@ -50,7 +68,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Lenguajes de Marcas'
+project = u'Implantación de aplicaciones web'
 copyright = u'2017, José Domingo Muñoz'
 author = u'José Domingo Muñoz'
 
@@ -135,7 +153,7 @@ html_theme = 'alabaster'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = u'Lenguajes de marcas v2016.0'
+# html_title = u'Servicios en red v2016.0'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -235,7 +253,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'lenguajedemarcasdoc'
+htmlhelp_basename = 'iawdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -261,7 +279,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'lenguajedemarcas.tex', u'Lenguajes de marcas Documentation',
+    (master_doc, 'iaw.tex', u'Implantación de aplicaciones web Documentation',
      u'José Domingo Muñoz', 'manual'),
 ]
 
@@ -303,7 +321,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'lenguajedemarcas', u'Lenguajes de marcas Documentation',
+    (master_doc, 'iaw', u'Implantación de aplicaiones web Documentation',
      [author], 1)
 ]
 
@@ -318,8 +336,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'lenguajedemarcas', u'Lenguajes de marcas Documentation',
-     author, 'lenguajedemarcas', 'One line description of project.',
+    (master_doc, 'iaw', u'Implantación de aplicaiones web Documentation',
+     author, 'iaw', 'One line description of project.',
      'Miscellaneous'),
 ]
 
