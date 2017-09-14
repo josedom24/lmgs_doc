@@ -1,6 +1,17 @@
 # Introducción a la implantación de aplicaciones web
 
-* [Aspectos básicos de las aplicaciones Web](https://helpx.adobe.com/es/dreamweaver/using/web-applications.html)
-* [Evolución de la web (Pablo E. Lozada Y.)](http://profesores.elo.utfsm.cl/~tarredondo/info/networks/Evolucion_Web.pdf)
-* [Aplicaciones web en la Wikipedia](https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_web)
-* [Diferencias y beneficios entre páginas estáticas y dinámicas](http://nilclass.com/courses/what-is-a-static-website/#1)
+## Enlaces
+
+*[code.org](https://code.org/)
+*[El País - Aprender a programar como se aprende a leer](https://elpais.com/sociedad/2013/03/07/actualidad/1362689630_904553.html)
+*[BBC - Free tool offers 'easy' coding](http://news.bbc.co.uk/2/hi/technology/6647011.stm)
+*[Scratch](https://scratch.mit.edu/)
+*[vimeo.com - Historia de los videojuegos](https://vimeo.com/7817513)
+*[programamos.es](https://programamos.es/)
+*[Tutorial de Scratch](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/manual%20scratch.pdf)
+
+## Prácticas
+
+* [Ejercicios 1 Scratch](scratch1)
+* [Ejercicios 2 Scratch](scratch2)
+* [Ejercicios 3 Scratch](scratch3)
