@@ -12,6 +12,11 @@
 
 ## Prácticas
 
-* [Ejercicios 1 Scratch](scratch1.md)
-* [Ejercicios 2 Scratch](scratch2.md)
-* [Ejercicios 3 Scratch](scratch3.md)
+```eval_rst
+.. toctree::
+   :maxdepth: 1
+
+   scratch1
+   scratch2
+   scratch3
+```
