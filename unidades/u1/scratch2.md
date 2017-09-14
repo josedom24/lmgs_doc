@@ -1,13 +1,6 @@
----
-layout: index
+# Ejercicio 2 Scratch
 
-title: Lenguaje de marcas
-tagline: CFGS ASIR
----
-
-### Ejercicio 2 Scratch
-
-#### Estructura repetitiva
+## Estructura repetitiva
 
 1. Dibujar un cuadrado, el tamaño del lado se pide por teclado:
 
@@ -19,4 +12,3 @@ tagline: CFGS ASIR
 5. El gato te debe pedir un número, y decirte la tabla de multiplicar de ese número.
 6. Uso de un acumulador. El gato calcula una potencia. Te pide la base y el exponente y te da el resultado de la potencia.
 
-[Volver](index)

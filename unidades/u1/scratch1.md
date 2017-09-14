@@ -1,13 +1,6 @@
----
-layout: index
+# Ejercicio 1 Scratch
 
-title: Lenguaje de marcas
-tagline: CFGS ASIR
----
-
-### Ejercicio 1 Scratch
-
-#### Estructura secuencial
+## Estructura secuencial
 
 1. Dibujar un cuadrado:
 
@@ -20,13 +13,13 @@ tagline: CFGS ASIR
 	* Cuando pulsemos el espacio el gato debe maullar.
 	* Introduce la posibilidad de mover arriba y abajo el gato. en este caso el gato no debe girar.
 
-#### Variables
+## Variables
 
 1. Pedir un nombre por teclado, y hacer que el gato diga "Hola Nombre".
 2. Calcular el perímetro y área de un rectángulo dada su base y su altura.
 3. Dados dos números, mostrar la suma, resta, división y multiplicación de ambos.
 
 
-[Volver](index)
+
 
 
