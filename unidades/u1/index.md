@@ -12,6 +12,6 @@
 
 ## Prácticas
 
-* [Ejercicios 1 Scratch](scratch1)
-* [Ejercicios 2 Scratch](scratch2)
-* [Ejercicios 3 Scratch](scratch3)
+* [Ejercicios 1 Scratch](scratch1.md)
+* [Ejercicios 2 Scratch](scratch2.md)
+* [Ejercicios 3 Scratch](scratch3.md)
