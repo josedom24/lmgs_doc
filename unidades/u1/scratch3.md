@@ -2,7 +2,7 @@
 
 ## Estructura condicional
 
-1. Realiza un programa donde el gato te pida la nota que has sacado, si es mayor o igual que cindo, te dice "Aprobado", sino te dirá "Suspenso".
+1. Realiza un programa donde el gato te pida la nota que has sacado, si es mayor o igual que cinco, te dice "Aprobado", sino te dirá "Suspenso".
 2. Ahora el gato te pide dos números, y te dice cuál es el mayor.
 3. Mejora el ejercicio 4 del [boletín anterioro](scratch2) para que cuando pulsemos la tecla espacio, al gato nos diga cuantas veces ha chocado con la pared.
 4. ¿Hay alguna diferencia entre estos dos programas?
