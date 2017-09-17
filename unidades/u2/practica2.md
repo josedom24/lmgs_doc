@@ -26,3 +26,33 @@ Instalación de sun jre 8 en Windows:
 * Ejecución de la misma aplicación en las dos plataformas
 * Entra en el sitio http://www.jedit.org y descárgate la versión multiplataforma de este editor, no la de linux ni windows.
 * Comprueba que puedes ejecutar esa misma aplicación en las dos plataformas.
+
+## Instalación y utilización de JDK
+
+Java Development Kit (JDK) son el conjunto de programas para desarrollar aplicaciones y entre otros incluye el compilador javac que convierte un programa fuente java a bytecode.
+
+* Instala el paquete openjdk-7-jdk
+* Ejecuta la instrucción update-alternatives --config javac y elige openjdk 7 si hubiese más de una opción
+* Crea un fichero HelloWorld.java con el siguiente contenido:
+
+	```java
+    public class HelloWorld {
+     public static void main(String[] args) {
+     System.out.println("Hello world!");
+     }
+    }
+    ```
+
+* Compila la aplicación:
+
+ 	```bash
+    javac HelloWorld.java
+    ```
+
+* que creará el bytecode `Helloworld.class`, ejecuta el código java:
+
+	```bash
+    java HelloWorld
+    ```
+
+* Coge el fichero `HelloWorld.class` y ejecútalo en cualquier otro equipo con java.

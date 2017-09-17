@@ -1,4 +1,4 @@
-# Compilación y ejecución de un lenguaje interpretado: C
+# Compilación y ejecución de un lenguaje compilado: C
 
 Todas las distribuciones GNU/Linux incluyen alguna versión del GNU Project C and C++ Compiler (gcc), vamos a utilizarlo.
 
