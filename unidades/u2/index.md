@@ -15,4 +15,5 @@
    :maxdepth: 1
 
    practica1
+   practica2
 ```
