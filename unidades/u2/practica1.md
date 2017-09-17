@@ -37,13 +37,13 @@ Todas las distribuciones GNU/Linux incluyen alguna versión del GNU Project C an
 	gcc -c helloworld.c 
 	```
 
-que genera el fichero `helloworld.o`, del tipo:
+	que genera el fichero `helloworld.o`, del tipo:
 
 	```bash
     helloworld.o: ELF 64-bit LSB relocatable, x86-64, version 1 (SYSV), not stripped
     ```
 
-Para enlazarlo y producir el fichero de salida a.out:
+	Para enlazarlo y producir el fichero de salida a.out:
 
 	```bash
     gcc -Wl helloworld.o
