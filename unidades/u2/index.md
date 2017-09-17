@@ -14,5 +14,5 @@
 .. toctree::
    :maxdepth: 1
 
-   
+   practica1
 ```
