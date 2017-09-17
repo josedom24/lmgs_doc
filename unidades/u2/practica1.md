@@ -55,10 +55,10 @@ Todas las distribuciones GNU/Linux incluyen alguna versión del GNU Project C an
 
 Los sistemas Windows no incluyen inicialmente ningún compilador de C, pero hay muchos compiladores que funcionan en sistemas Windows, en particular dev-c++
 
-1. Copia el fichero binario a.out compilado en GNU/Linux con gcc en la partición Windows y reinicia el equipo con este sistema
-2. Ejecuta la aplicación a.out en Windows, ¿qué ocurre?
+1. Copia el fichero binario `a.out` compilado en GNU/Linux con gcc en la partición Windows y reinicia el equipo con este sistema
+2. Ejecuta la aplicación `a.out` en Windows, ¿qué ocurre?
 3. Instala el IDE dev-c++ en windows
-4. Crea un fichero hola.c con el programa hola mundo, compílalo y ejecútalo
+4. Crea un fichero `hola.c` con el programa hola mundo, compílalo y ejecútalo
 5. ¿Entiendes que teniendo el mismo código fuente los binarios son diferentes?
 
 ## Bibliotecas estáticas o dinámicas
