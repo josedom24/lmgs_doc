@@ -11,6 +11,10 @@
    python3
    python4
    python5
+   python6
+   python7
+   python8
+   python9
 ```
 ## Prácticas
 
