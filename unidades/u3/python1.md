@@ -6,7 +6,7 @@
 
 Python es un lenguaje:
 
-* Intrepetado
+* Interpretado
 * Alto nivel
 * Multiparadigma, ya que soporta **orientación a objetos**, **programación imperativa**  y **programación funcional**.
 * Multipltaforma
@@ -22,7 +22,7 @@ Python es un lenguaje:
 	* Programación imperativa
 	* Orientación a objetos
 	* Programación funcional
-* Puedes programas deistintos tipos de aplicaciones:
+* Puedes programas distintos tipos de aplicaciones:
 	* Aplicaciones de escritorio
 	* Aplicaciones web
 	* Scripts
