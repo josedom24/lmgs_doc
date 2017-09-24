@@ -1,6 +1,6 @@
 # Introducción a python
 
-[Presentación del tema](/unidades/u3/doc/python1.pdf)
+[Presentación del tema](https://github.com/josedom24/lmgs_doc/raw/master/unidades/u3/doc/python1.pdf)
 
 ## Características de Python 
 
