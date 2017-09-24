@@ -1,6 +1,6 @@
 # Introducción a python
 
-[Presentación del tema](doc/python1.pdf)
+[Presentación del tema](/unidades/u3/doc/python1.pdf)
 
 ## Características de Python 
 
