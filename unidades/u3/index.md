@@ -5,9 +5,8 @@
 ```eval_rst
 .. toctree::
    :maxdepth: 1
+
    python1
-   
-   
 ```
 ## Prácticas
 
