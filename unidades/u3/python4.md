@@ -17,3 +17,7 @@ A La hora de decidir en qué entorno trabajar, nos deberíamos hacer las siguien
 ## Editores de texto para python
 
 * [Editores de texto para python](https://wiki.python.org/moin/PythonEditors)
+
+## Enlaces
+
+* [Los 5 mejores editores Python](https://openwebinars.net/blog/los-5-mejores-editores-python/)
