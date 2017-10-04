@@ -10,7 +10,7 @@ Cuando se evalua una expresión, hay determinados valores que se interpretan com
 
 * `None`
 * `False`
-* Cualquier número 0. (0, 0.0, 0j)
+* Cualquier número 0. (0, 0.0)
 * Cualquier secuencia vacía ([], (), '')
 * Cualquir diccionario vacío ({})
 
