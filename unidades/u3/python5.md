@@ -24,14 +24,6 @@ Si tenemos nuestro programa en un fichero fuente (suele tener extensión `py`), 
 	
 	$ python3 programa.py
 
-Por defecto la codificación de nuestro código fuente es UTF-8, por lo que no debemos tener ningún problema con los caracteres utilizados en nuestro programaos. Si por cualquier motivo necesitamos cambiar la codificación de los caracteres, en la primera línea de nuestro programa necesitaríamos poner:
-
-	# -*- coding: encoding -
-
-Por ejemplo:
-
-	# -*- coding: cp-1252 -*-
-
 ## Escribimos un programa
 
 Un ejemplo de nuestro primer programa, podría ser este "hola mundo" un poco modificado:

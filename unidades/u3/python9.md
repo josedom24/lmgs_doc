@@ -1,55 +1,28 @@
-# Tipos de datos
+# Trabajando con variables
 
-Podemos concreatar aún más los tipos de datos (o clases) de los objetos que manejamos en el lenguaje:
+Las variables en python no se declaran, se determina su tipo en tiempo de ejecución empleando una técnica que se lama **tipado dinámico**.
 
-* Tipos númericos
-	* Tipo entero (int)
-	* Tipo real (float)
-	* Tipo numérico (complex)
-* Tipos booleanos (bool)
-* Tipo de datos secuencia
-	* Tipo lista (list)
-	* Tipo tuplas (tuple)
-	* Tipo rango (range)
-* Tipo de datos cadenas de caracteres
-	* Tipo cadena (str)
-* Tipo de datos binarios
-	* Tipo byte (bytes)
-	* tipo bytearray (bytearray)
-* Tipo de datos conjuntos
-	* Tipo conjunto (set)
-	* Tipo conjunto inmutable (frozenset)
-* Tipo de datos iterador y generador (iter)
-* Tipo de datos mapas o diccionario (dict)
+	
+## Operadores de asignación
 
-En realidad todo tiene definido su tipo o clase:
+Me permiten asignar una valor a una variable, o mejor dicho: me permiten cambiar la referencia a un nuevo objeto.
 
-* Ficheros
-* Módulos
-* Funciones
-* Excepciones
-* Clases 
+El operador principal es `=`:
 
-## Función type() 
+	>>> a = 7
+	>>> a
+	7
 
-La función `type` nos devuelve el tipo de dato de un objeto dado. Por ejemplo:
+Podemos hacer diferentes operaciones con la variable y luego asignar, por ejemplo sumar y luego asignar.
 
-	>>> type(5)
-	<class 'int'>
-	>>> type(5.5)
-	<class 'float'>
-	>>> type([1,2])
-	<class 'list'>
-	>>> type(int)
-	<class 'type'>
+	>>> a+=2
+	>>> a
+	9
 
-## Función isinstance()
+Otros operadores de asignación: `+=`, `-=`, `*=`, `/=`, `%=`, `**=`, `//=`
 
-Esta función devuelve True si el objeto indicado es del tipo indicado, en caso cntrario devuelve False.
+## Asignación múltiple
 
-	>>> isinstance(5,int)
-	True
-	>>> isinstance(5.5,float)
-	True
-	>>> isinstance(5,list)
-	False
+En python se permiten asignaciones múltiples de esta manera:
+
+	>>> a, b, c = 1, 2, "hola"

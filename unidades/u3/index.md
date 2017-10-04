@@ -15,6 +15,9 @@
    python7
    python8
    python9
+   python10
+   python11
+   python12
 ```
 ## Prácticas
 

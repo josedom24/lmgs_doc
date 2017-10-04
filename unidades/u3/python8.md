@@ -10,9 +10,8 @@ Los literales nos permiten representar valores. Estos valores pueden ser de dife
 
 * Para representar números enteros utilizamos cifras enteras (Ejemplos: 3, 12, -23). Si queremos representarlos de forma binaria comenzaremos por la secuencia `0b` (Ejemplos: 0b10101, 0b1100). La representación octal la hacemos comenzando por `0o` (Ejemplos: 0o377, 0o7) y por último, la representación hexadecimal se comienza por `0x` (Ejemplos: 0xdeadbeef, 0xfff).
 
-* Para los números reales utilizamos un punto para separar la parte entera de la decimal (12.3, 45.6). Podemos indicar que la parte decimal es 0, por ejemplo 10., o la parte entera es 0, por ejemplo .001, Para la representación de números muy grandes o muy pequeños podemos usar la representación exponencial (Ejemplos: 3.14e-10,1e100).
+* Para los números reales utilizamos un punto para separar la parte entera de la decimal (12.3, 45.6). Podemos indicar que la parte decimal es 0, por ejemplo 10., o la parte entera es 0, por ejemplo .001.
 
-* Por último, también podemos representar números complejos, con una parte real y otra imaginaria (Ejemplo: 1+2j)
 
 **Literales cadenas**
 
@@ -23,24 +22,11 @@ Nos permiten representar cadenas de caracteres. Para delimitar las cadenas podem
 	'''Podemos \n
 	ir al cine'''
 
-Las cadenas anteriores son del tipo `str`, si queremos representar una cadena de tipo `byte` podremos hacerlo de la siguiente manera:
+Con el carácter \, podemos escapar algunos caracteres, veamos algunos ejemplos:
 
-	b'Hola'
-	B"Muy bien"
-
-Con el carácter /, podemos escapar algunos caracteres, veamos algunos ejemplos:
-
-	\\ 	Backslash (\) 	 
-	\' 	Single quote (') 	 
-	\" 	Double quote (") 	 
-	\a 	ASCII Bell (BEL) 	 
-	\b 	ASCII Backspace (BS) 	 
-	\f 	ASCII Formfeed (FF) 	 
 	\n 	ASCII Linefeed (LF) 	 
-	\r 	ASCII Carriage Return (CR) 	 
 	\t 	ASCII Horizontal Tab (TAB) 	 
-	\v 	ASCII Vertical Tab (VT)
-
+	
 
 ### Variables
 
@@ -126,10 +112,3 @@ La procedencia de operadores es la siguiente:
 13. Operadores de pertenencia (in, in not)
 14. Operadores lógicos (not, or, and)
 
-## Función eval()
-
-La función `eval()` recibe una expresión como una cadena y la ejecuta.
-
-	>>> x=1
-	>>> eval("x + 1")
-	2
