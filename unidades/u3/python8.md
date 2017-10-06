@@ -80,7 +80,6 @@ Veamos ejemplos de expresiones:
 Los operadores que podemos utilizar se clasifican según el tipo de datos con los que trabajen y podemos poner algunos ejemplos:
 
 	+       -       *       **      /       //      %
-	<<      >>      &       |       ^       ~
 	<       >       <=      >=      ==      !=
 	-=      *=      /=      //=     %=
 
@@ -91,24 +90,16 @@ Podemos clasificaros en varios tipos:
 * Operadores de asignación
 * Operadores de comparación
 * Operadores lógicos
-* Operadores a nivel de bit
-* Operadores de pertenencia
-* Operadores de identidad
 
 La procedencia de operadores es la siguiente:
 
 1. Los paréntesis rompen la procedencia.
 2. La potencia (**)
-3. Operadores unarios (~ + -)
+3. Operadores unarios (+ -)
 4. Multiplicar, dividir, módulo y división entera (* /% // )
 5. Suma y resta (+ -)
-6. Desplazamiento nivel de bit (>> <<)
-7. Operador binario AND (&)
-8. Operadores binario OR y XOR (^ |)
-9. Operadores de comparación (<= < > >=)
-10. Operadores de igualdad (<> == !=)
-11. Operadores de asignación (= %= /= //= -= += *= **=)
-12. Operadores de identidad (is, is not)
-13. Operadores de pertenencia (in, in not)
-14. Operadores lógicos (not, or, and)
+6. Operadores de comparación (<= < > >=)
+7. Operadores de igualdad (<> == !=)
+8. Operadores de asignación (= %= /= //= -= += *= **=)
+9. Operadores lógicos (not, or, and)
 

@@ -1,6 +1,6 @@
 # Tipo de datos numéricos
 
-Python3 trabaja con tres tipos numéricos:
+Python3 trabaja con dos tipos numéricos:
 
 * Enteros (int): Representan todos los números enteros (positivos, negativos y 0), sin parte decimal. En python3 este tipo no tiene limitación de espacio. 
 * Reales (float): Sirve para representar los números reales, tienen una parte decimal y otra  decimal.
