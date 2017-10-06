@@ -19,12 +19,12 @@
    python11
    python12
 ```
-## Prácticas
+## Ejercicios
 
 ```eval_rst
 .. toctree::
    :maxdepth: 1
 
-   
+   boletin1
    
 ```
