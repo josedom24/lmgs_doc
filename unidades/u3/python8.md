@@ -77,19 +77,13 @@ Veamos ejemplos de expresiones:
 
 ### Operadores. Precedencia de operadores en python
 
-Los operadores que podemos utilizar se clasifican según el tipo de datos con los que trabajen y podemos poner algunos ejemplos:
+Los operadores que podemos utilizar se clasifican según el tipo de datos:
 
-	+       -       *       **      /       //      %
-	<       >       <=      >=      ==      !=
-	-=      *=      /=      //=     %=
-
-Podemos clasificaros en varios tipos:
-
-* Operadores aritméticos
-* Operadores de cadenas
-* Operadores de asignación
-* Operadores de comparación
-* Operadores lógicos
+* Operadores aritméticos (`+ - * ** / // %`)
+* Operadores de cadenas (`+ *`)
+* Operadores de asignación (`= -= *= /= //= %=`)
+* Operadores de comparación (`< > <= >= == !=`)
+* Operadores lógicos (`and, or, not`)
 
 La procedencia de operadores es la siguiente:
 
