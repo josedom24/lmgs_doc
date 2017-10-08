@@ -30,7 +30,7 @@
 
 		num1=float(input("Numero1:"))
 		num2=float(input("Numero2:"))
-		print("Suma:%d,resta:%d,multiplicacion:%d,division:%.2f"%()num1+num2,num1-num2,num1*num2,num1/num2)
+		print("Suma:%d,resta:%d,multiplicacion:%d,division:%.2f"%(num1+num2,num1-num2,num1*num2,num1/num2))
 
 6. Escribir un programa que le pida una palabra al usuario, para luego imprimirla 1000 veces, con espacios intermedios.
 
