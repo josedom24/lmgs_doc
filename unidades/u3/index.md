@@ -18,6 +18,7 @@
    python10
    python11
    python12
+   python13
 ```
 ## Ejercicios
 
@@ -26,5 +27,6 @@
    :maxdepth: 1
 
    boletin1
+   boletin2
    
 ```
