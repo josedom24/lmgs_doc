@@ -1,8 +1,9 @@
 # Introducción a la programación
 
+* [Introducción a los lenguajes de programación](http://slides.com/josedomingomunoz/lenguajes#/)
+
 ## Enlaces
 
-* [Introducción a los lenguajes de programación](http://slides.com/josedomingomunoz/lenguajes#/)
 * [levenez.com - Computer Language History [pdf]](https://www.levenez.com/lang/lang.pdf)
 * [Wikipedia - Lenguaje de programación interpretado](http://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n_interpretado)
 * [Wikipedia - Lenguaje compilado](http://es.wikipedia.org/wiki/Lenguaje_compilado)
