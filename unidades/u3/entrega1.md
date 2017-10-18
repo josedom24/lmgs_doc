@@ -5,9 +5,9 @@
 ```eval_rst
 .. note::
 	
-	``DIVISOR DE NÚMEROS
-	Escriba el dividendo: 14
-	Escriba el divisor: 5
+	``DIVISOR DE NÚMEROS\n
+	Escriba el dividendo: 14\n
+	Escriba el divisor: 5\n
 	La división no es exacta. Cociente: 2 Resto: 4``
 	
 
