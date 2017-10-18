@@ -1,6 +1,6 @@
 # Estructura de control: Alternativas
 
-Si al evaluar la expresión lógica obtenermos el resultado True ejecuta un bloque de instrucciones, en otro caso ejecuta otro bloque.
+Si al evaluar la expresión lógica obtenemos el resultado `True` ejecuta un bloque de instrucciones, en otro caso ejecuta otro bloque.
 
 ## Alternativas simples
 
