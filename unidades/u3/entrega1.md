@@ -2,13 +2,16 @@
 
 1. Escriba un programa que pida dos números enteros y que calcule su división, escribiendo si la división es exacta o no. Se puede mejorar el programa haciendo que tenga en cuenta que no se puede dividir por cero.
 
-	DIVISOR DE NÚMEROS
-	Escriba el dividendo: 14
-	Escriba el divisor: 5
-	La división no es exacta. Cociente: 2 Resto: 4	
+```bash
+DIVISOR DE NÚMEROS
+Escriba el dividendo: 14
+Escriba el divisor: 5
+La división no es exacta. Cociente: 2 Resto: 4	
+```
 
-	DIVISOR DE NÚMEROS
-	Escriba el dividendo: 20
-	Escriba el divisor: 4
-	La división es exacta. Cociente: 5
-	
+```bash
+DIVISOR DE NÚMEROS
+Escriba el dividendo: 20
+Escriba el divisor: 4
+La división es exacta. Cociente: 5
+```	
