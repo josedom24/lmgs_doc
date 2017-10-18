@@ -5,8 +5,7 @@
 	DIVISOR DE NÚMEROS
 	Escriba el dividendo: 14
 	Escriba el divisor: 5
-	La división no es exacta. Cociente: 2 Resto: 4``
-	
+	La división no es exacta. Cociente: 2 Resto: 4	
 
 	DIVISOR DE NÚMEROS
 	Escriba el dividendo: 20
