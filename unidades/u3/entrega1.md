@@ -4,8 +4,7 @@
 
 ```eval_rst
 .. note::
-
-	::
+	
 		DIVISOR DE NÚMEROS
 		Escriba el dividendo: 14
 		Escriba el divisor: 5
