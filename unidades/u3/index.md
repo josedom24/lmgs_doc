@@ -30,5 +30,7 @@
    boletin1
    resuelto1
    boletin2
+   resuelto2
+   boletin3
    
 ```
