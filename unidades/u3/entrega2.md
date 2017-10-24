@@ -61,15 +61,14 @@
 	10 + 11 + 12 + 13 + 14 + 15 = 75
 	```
 
-
 4. Realizar un programa python que pida por teclado los extremos de un intervalo. Debemos comprobar que el extremo inferior sea menor que el superior, sino ocurre esto el programa terminará con un error. Se debe comprobar, además, que los dos extremos son positivos (mayor que 0), sino ocurre esto, el programa tarminará dando un mensaje de error.
 
  	Una vez leído los extremos, se pedirán números positivos, finalizando cundo introduzcamos un 0. Al terminar el programa mostrará la siguiente información:
 
- 		* La cantidad de números introducidos que pertenecen estrictamente al intervalo. 
- 		* El máximo de los números introducidos que no pertenecen al intervalo. 
- 		* La media de los números que no pertenecen al intervalo. 
- 		* Si se ha introducido algún número igual a algunos de los dos intervalos. 
+	* La cantidad de números introducidos que pertenecen estrictamente al intervalo. 
+	* El máximo de los números introducidos que no pertenecen al intervalo. 
+	* La media de los números que no pertenecen al intervalo. 
+ 	* Si se ha introducido algún número igual a algunos de los dos intervalos. 
 
  	Nota: Se puede mejorar el programa si al detectar que el limite inferior es mayor que el superior, intercambiar los valores.
 
