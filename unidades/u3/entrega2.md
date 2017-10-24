@@ -4,7 +4,7 @@
 
 	Notas:
 
-	* Un número es divisible por otro cuando el resto de su división es cero (numero % divisor == 0).
+	* Un número es divisible por otro cuando el resto de su división es cero (``numero % divisor == 0``).
     * Se puede hacer un programa más rápido, teniendo en cuenta que los divisores son siempre menores (o iguales) que la mitad del número. Es decir, no hace falta probar todos los números entre 1 y el propio número, sino únicamente hasta la mitad. Si se hace así, no hay que olvidarse de añadir el propio número a la lista de divisores.
 
 	```bash
