@@ -38,7 +38,7 @@
 	Gracias por su colaboración
 	```
 
-3. Escriba un programa que pida dos números enteros y escriba la suma de todos los enteros desde el primer número hasta el segundo.
+3. Escriba un programa que pida dos números enteros y escriba la suma de todos los enteros desde el primer número hasta el segundo. Mejore el programa anterior haciendo que el programa escriba la suma realizada (último ejemplo).
 
 	```bash
 	SUMA ENTRE VALORES
@@ -52,8 +52,6 @@
 	Escriba un número entero mayor que 30: 32
 	La suma desde 30 hasta 32 es 93	
 	```
-
-		Mejore el programa anterior haciendo que el programa escriba la suma realizada.
 
 	```bash
 	SUMA ENTRE VALORES
