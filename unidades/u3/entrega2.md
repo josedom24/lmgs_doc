@@ -53,7 +53,7 @@
 	La suma desde 30 hasta 32 es 93	
 	```
 
-	Mejore el programa anterior haciendo que el programa escriba la suma realizada.
+		Mejore el programa anterior haciendo que el programa escriba la suma realizada.
 
 	```bash
 	SUMA ENTRE VALORES
