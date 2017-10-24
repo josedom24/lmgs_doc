@@ -92,11 +92,11 @@
 
 5.
 
-**Apartado 1**
+	**Apartado 1**
 
-Escriba un programa que genere una multiplicación de dos números del 2 al 10 al azar, pregunte por el resultado y diga si se ha dado la respuesta correcta.
+	Escriba un programa que genere una multiplicación de dos números del 2 al 10 al azar, pregunte por el resultado y diga si se ha dado la respuesta correcta.
 
-Para generar números al azar puedes utilizar el siguiente código:
+	Para generar números al azar puedes utilizar el siguiente código:
 
 	```python
 	from random import randint
@@ -113,9 +113,9 @@ Para generar números al azar puedes utilizar el siguiente código:
 	¡Respuesta incorrecta!
 	```
 
-**Apartado 2**
+	**Apartado 2**
 
-Amplie el programa anterior haciendo que el programa pida primero al usuario cuántas multiplicaciones se van a plantear.
+	Amplie el programa anterior haciendo que el programa pida primero al usuario cuántas multiplicaciones se van a plantear.
 
 	```bash
 	Número de preguntas: 0
@@ -132,10 +132,10 @@ Amplie el programa anterior haciendo que el programa pida primero al usuario cu�
 	¡Respuesta incorrecta!
 	```
 
-**Apartado 3**
+	**Apartado 3**
 
-Amplie el programa anterior haciendo que el programa lleve la cuenta de las respuestas correctas e incorrectas e indique la nota correspondiente. Si la nota es igual o mayor que 9, el programa felicitará al usuario por el resultado.
-Ayuda: La nota se calcula con la fórmula Nota=Correctas / Total * 10.
+	Amplie el programa anterior haciendo que el programa lleve la cuenta de las respuestas correctas e incorrectas e indique la nota correspondiente. Si la nota es igual o mayor que 9, el programa felicitará al usuario por el resultado.
+	Ayuda: La nota se calcula con la fórmula Nota=Correctas / Total * 10.
 
 	```bash
 	Número de preguntas: 2	
@@ -175,4 +175,4 @@ Ayuda: La nota se calcula con la fórmula Nota=Correctas / Total * 10.
 	¡Enhorabuena!
 	```
 
-NOTA: **Tienes que entregar sólo el código del apartado 3.**
+	NOTA: **Tienes que entregar sólo el código del apartado 3.**
