@@ -26,26 +26,26 @@ Vamos a ver distintos ejemplos partiendo de una lista, que es una secuencia muta
 
 * Las secuencias se pueden recorrer.
 
-	>>> for num in lista:
-	...   print(num,end="")
-	123456
+		>>> for num in lista:
+		...   print(num,end="")
+		123456
 
 * Operadores de pertenencia: Se puede comprobar si un elemento pertenece o no a una secuencia con los operadores `in` y `not in`.
 
-	>>> 2 in lista
-	True
-	>>> 8 not in lista
-	True
+		>>> 2 in lista
+		True
+		>>> 8 not in lista
+		True
 
 * Concatenación: `+`: El operador `+` me permite unir datos de tipos listas.
 
-	>>> lista + [7,8,9]
-	[1, 2, 3, 4, 5, 6, 7, 8, 9]
+		>>> lista + [7,8,9]
+		[1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 * Repetición: `*`: El operador `*` me permite repetir un dato de un tipo lista.
 
-	>>> lista * 2
-	[1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6]
+		>>> lista * 2
+		[1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6]
 
 * Indexación: Cada elemento tiene un índice, empezamos a contar por el elemento en el índice 0. Si intento acceder a un índice que corresponda a un elemento que no existe obtenemos una excepción `IndexError`.
 
