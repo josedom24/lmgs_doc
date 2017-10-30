@@ -28,7 +28,7 @@
 				print("Numero demasido bajo")
 			num=int(input("Dame un numero entre 0 y 9:"))
 		for i in xrange(1,16):
-	print("%d*%d=%d"%(num,i,i*num)	)
+			print("%d*%d=%d"%(num,i,i*num))
 
 2. Crea una aplicación que pida un número y calcule su factorial (El factorial de un número es el producto de todos los enteros entre 1 y el propio número y se representa por el número seguido de un signo de exclamación. Por ejemplo 5! = 1x2x3x4x5=120),
 
