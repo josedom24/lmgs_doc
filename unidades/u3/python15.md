@@ -1,6 +1,6 @@
-# Tipo de datos secuencia: listas
+# Tipo de datos secuencia: Listas
 
-Las listas (`list`) me permiten guardar un conjunto de datos que se pueden repetir y que pueden ser de distintos tipos. Es un tipo mutable.
+Las listas (`list`) me permiten guardar un conjunto de datos que se pueden repetir y que pueden ser de distintos tipos. 
 
 ## Construcción de una lista 
 
