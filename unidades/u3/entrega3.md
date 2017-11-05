@@ -68,8 +68,6 @@
 		Palabras que sólo aparecen en la segunda lista: ['Juan']
 		Todas las palabras: ['Carmen', 'Benito', 'Alberto', 'Juan']	
 
-
-
 4. Realizar un programa que guarde en una lista los nombre y edades de los alumnos de una clase. El programa ira pidiendo por teclado el nombre (string) y la edad (int) hasta que se introduzca como nombre un "\*". Las posiciones pares (0,2,4,...) de la lista serán cadenas y las impares son enteros. Cuando terminemos de meter datos hay que mostrar la siguiente información:
 
 	* Los nombres de los alumnos con más edad.
