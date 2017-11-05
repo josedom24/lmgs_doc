@@ -29,6 +29,6 @@
     * Lista de palabras que aparecen en la segunda lista, pero no en la primera.
     * Lista de palabras que aparecen en ambas listas.
 
-   Nota: Para evitar las repeticiones, el programa deberá empezar eliminando los elementos repetidos en cada lista.
+	Nota: Para evitar las repeticiones, el programa deberá empezar eliminando los elementos repetidos en cada lista.
 
 12. Escribir una función que reciba una lista de elementos e indique si se encuentran ordenados de menor a mayor o no.
