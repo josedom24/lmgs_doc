@@ -2,16 +2,16 @@
 
 1. Realiza un programa en Python que pida por teclados números y se vayan guardando en una lista. Se terminará de pedir número cuando se introduzca un 0. Cuando se termine se mostrará la siguiente información:
 
-* Cuántos números hay en la lista
-* El número mayor que hay en la lista.
-* La lista ordenada de menor a mayor.
-* Muestra la media de los números.
+	* Cuántos números hay en la lista
+	* El número mayor que hay en la lista.
+	* La lista ordenada de menor a mayor.
+	* Muestra la media de los números.
 
 2. Escriba un programa que permita crear una lista de palabras y que, a continuación de tres opciones: 
 
-* Contar: Me pide una cadena, y me dice cuantas veces aparece en la lista
-* Modificar: Me pide una cadena, y otra cadena a modificar, y modifica todas alas apariciones de la primera por la segunda en la lista.
-* Eliminar: Me pide una cadena, y la elimina de la lista.
+	* Contar: Me pide una cadena, y me dice cuantas veces aparece en la lista
+	* Modificar: Me pide una cadena, y otra cadena a modificar, y modifica todas alas apariciones de la primera por la segunda en la lista.
+	* Eliminar: Me pide una cadena, y la elimina de la lista.
 
 	El programa te muestra el menú, hasta que introduzcamos la opción 0 de salir.
 
