@@ -2,17 +2,16 @@
 
 1. Realiza un programa en Python que pida por teclados números y se vayan guardando en una lista. Se terminará de pedir número cuando se introduzca un 0. Cuando se termine se mostrará la siguiente información:
 
-    * Cuántos números hay en la lista
-    * El número mayor que hay en la lista.
-    * La lista ordenada de menor a mayor.
-    * Muestra la media de los números.
-
+* Cuántos números hay en la lista
+* El número mayor que hay en la lista.
+* La lista ordenada de menor a mayor.
+* Muestra la media de los números.
 
 2. Escriba un programa que permita crear una lista de palabras y que, a continuación de tres opciones: 
 
-	* Contar: Me pide una cadena, y me dice cuantas veces aparece en la lista
-	* Modificar: Me pide una cadena, y otra cadena a modificar, y modifica todas alas apariciones de la primera por la segunda en la lista.
-	* Eliminar: Me pide una cadena, y la elimina de la lista.
+* Contar: Me pide una cadena, y me dice cuantas veces aparece en la lista
+* Modificar: Me pide una cadena, y otra cadena a modificar, y modifica todas alas apariciones de la primera por la segunda en la lista.
+* Eliminar: Me pide una cadena, y la elimina de la lista.
 
 	El programa te muestra el menú, hasta que introduzcamos la opción 0 de salir.
 
@@ -46,10 +45,10 @@
 
 3. Escriba un programa que permita crear dos listas de palabras y que, a continuación, escriba las siguientes listas (en las que no debe haber repeticiones):
 
-    * Lista de palabras que aparecen en las dos listas.
-    * Lista de palabras que aparecen en la primera lista, pero no en la segunda.
-    * Lista de palabras que aparecen en la segunda lista, pero no en la primera.
-    * Lista de palabras que aparecen en ambas listas.
+* Lista de palabras que aparecen en las dos listas.
+* Lista de palabras que aparecen en la primera lista, pero no en la segunda.
+* Lista de palabras que aparecen en la segunda lista, pero no en la primera.
+* Lista de palabras que aparecen en ambas listas.
 
 	Nota: Para evitar las repeticiones, el programa deberá empezar eliminando los elementos repetidos en cada lista.
 
@@ -73,10 +72,10 @@
 
 4. Realizar un programa que guarde en una lista los nombre y edades de los alumnos de una clase. El programa ira pidiendo por teclado el nombre (string) y la edad (int) hasta que se introduzca como nombre un "\*". Las posiciones pares (0,2,4,...) de la lista serán cadenas y las impares son enteros. Cuando terminemos de meter datos hay que mostrar la siguiente información:
 
-    * Los nombres de los alumnos con más edad.
-    * La media de edad de la clase
-    * Te pide por teclado un nombre y te dice la edad que tiene. Si hay varios alumnos con el mismo nombre te muestra todos.
-    * Genera una nueva lista con los nombres y edades de los mayores de edad.
+* Los nombres de los alumnos con más edad.
+* La media de edad de la clase
+* Te pide por teclado un nombre y te dice la edad que tiene. Si hay varios alumnos con el mismo nombre te muestra todos.
+* Genera una nueva lista con los nombres y edades de los mayores de edad.
 
 5. Repite el ejercicio 4, pero utilizando la siguiente estructura: una lista, en la cual cada elemento es una lista con dos elementos: el nombre y la edad. Por ejemplo:
 
