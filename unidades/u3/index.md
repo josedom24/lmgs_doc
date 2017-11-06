@@ -22,6 +22,7 @@
    python14
    python15
    python16
+   python17
 ```
 ## Ejercicios
 
