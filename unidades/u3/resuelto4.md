@@ -117,18 +117,7 @@
 
 		print(lista1)
 
-9. Escriba un programa que permita crear una lista de palabras y que, a continuación, cree una segunda lista igual a la primera, pero al revés (no se trata de escribir la lista al revés, sino de crear una lista distinta).
-
-		palabra=input("Palabra lista 1:")
-		lista1=[]
-		while palabra != " ":
-			lista1.append(palabra)
-			palabra=input("Palabra lista 1:")		
-
-		lista2=lista1[::-1]
-		print(lista2)
-
-10. Escriba un programa que permita crear una lista de palabras y que, a continuación, elimine los elementos repetidos (dejando únicamente el primero de los elementos repetidos).
+9. Escriba un programa que permita crear una lista de palabras y que, a continuación, elimine los elementos repetidos (dejando únicamente el primero de los elementos repetidos).
 
 		palabra=input("Palabra lista 1:")
 		lista1=[]
@@ -143,78 +132,7 @@
 		lista1=lista2[:]
 		print(lista1)
 
-11. Escriba un programa que permita crear dos listas de palabras y que, a continuación, escriba las siguientes listas (en las que no debe haber repeticiones):
-
-    * Lista de palabras que aparecen en las dos listas.
-    * Lista de palabras que aparecen en la primera lista, pero no en la segunda.
-    * Lista de palabras que aparecen en la segunda lista, pero no en la primera.
-    * Lista de palabras que aparecen en ambas listas.
-
-    Nota: Para evitar las repeticiones, el programa deberá empezar eliminando los elementos repetidos en cada lista.
-
-		palabra=input("Palabra lista 1:")
-		lista1=[]
-		while palabra != " ":
-			lista1.append(palabra)
-			palabra=input("Palabra lista 1:")		
-
-		palabra=input("Palabra lista 2:")
-		lista2=[]
-		while palabra != " ":
-			lista2.append(palabra)
-			palabra=input("Palabra lista 2:")		
-
-		# Quito los elementos repetidos de lista1		
-		listaaux=[]
-		for cad in lista1:
-			if not cad in listaaux:
-				listaaux.append(cad)
-		lista1=listaaux[:]
-		print(lista1		)
-
-		# Quito los elementos repetidos de lista2		
-		listaaux=[]
-		for cad in lista2:
-			if not cad in listaaux:
-				listaaux.append(cad)
-		lista2=listaaux[:]
-		print(lista2		)
-
-		print("Lista de palabras que aparecen en las dos listas.")
-		lista3=lista1[:]
-		lista3.extend(lista2)		
-
-		# Quito los elementos repetidos de lista3
-		listaaux=[]
-		for cad in lista3:
-			if not cad in listaaux:
-				listaaux.append(cad)
-		lista3=listaaux[:]
-		print(lista3		)
-
-		print("Lista de palabras que aparecen en la primera lista, pero no en la segunda.")
-		lista4=[]
-		for cad in lista1:
-			if not cad in lista2:
-				lista4.append(cad)
-		print(lista4)
-		
-		print("Lista de palabras que aparecen en la segunda lista, pero no en la primera.")
-		lista5=[]
-		for cad in lista2:
-			if not cad in lista1:
-				lista5.append(cad)
-		print(lista5		)
-
-		print("Lista de palabras que aparecen en ambas listas.")
-		lista6=[]
-		for cad in lista1:
-			if cad in lista2:
-				lista6.append(cad)
-		print(lista6)
-
-
-12. Escribir una función que reciba una lista de elementos e indique si se encuentran ordenados de menor a mayor o no.
+10. Escribir una función que reciba una lista de elementos e indique si se encuentran ordenados de menor a mayor o no.
 
 		num=int(input("Número:"))
 		lista=[]

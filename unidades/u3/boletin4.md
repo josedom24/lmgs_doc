@@ -18,17 +18,6 @@
 
 8. Escriba un programa que permita crear dos listas de palabras y que, a continuación, elimine de la primera lista los nombres de la segunda lista.
 
-9. Escriba un programa que permita crear una lista de palabras y que, a continuación, cree una segunda lista igual a la primera, pero al revés (no se trata de escribir la lista al revés, sino de crear una lista distinta).
+9. Escriba un programa que permita crear una lista de palabras y que, a continuación, elimine los elementos repetidos (dejando únicamente el primero de los elementos repetidos).
 
-10. Escriba un programa que permita crear una lista de palabras y que, a continuación, elimine los elementos repetidos (dejando únicamente el primero de los elementos repetidos).
-
-11. Escriba un programa que permita crear dos listas de palabras y que, a continuación, escriba las siguientes listas (en las que no debe haber repeticiones):
-
-    * Lista de palabras que aparecen en las dos listas.
-    * Lista de palabras que aparecen en la primera lista, pero no en la segunda.
-    * Lista de palabras que aparecen en la segunda lista, pero no en la primera.
-    * Lista de palabras que aparecen en ambas listas.
-
-	Nota: Para evitar las repeticiones, el programa deberá empezar eliminando los elementos repetidos en cada lista.
-
-12. Escribir una función que reciba una lista de elementos e indique si se encuentran ordenados de menor a mayor o no.
+10. Escribir una función que reciba una lista de elementos e indique si se encuentran ordenados de menor a mayor o no.
