@@ -31,6 +31,3 @@
 
 9. Escribir una función que reciba una cadena de unos y ceros (es decir, un número en representación binaria) y devuelva el valor decimal correspondiente.
 
-10. Escribir un programa python que dado una palabra diga si es un palíndromo. Un palídromo Un palíndromo es una palabra, número o frase que se lee igual hacia adelante que hacia atrás. Ejemplo: *reconocer*
-
-Modifica el programa para que compruebe si una frase es palíndroma. Ejemplo: *Yo hago yoga hoy*

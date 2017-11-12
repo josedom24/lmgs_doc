@@ -114,24 +114,3 @@
 				decimal=decimal+(2**cont)
 			cont=cont+1
 		print(decimal)
-
-10. Escribir un programa python que dado una palabra diga si es un palíndromo. Un palídromo Un palíndromo es una palabra, número o frase que se lee igual hacia adelante que hacia atrás. Ejemplo: *reconocer*
-
-		cad1=input("Cadena:")	
-		if cad1.lower()==cad1[::-1].lower():
-			print("palindromo")
-		else:
-			print("no palindromo")
-
-	Modifica el programa para que compruebe si una frase es palíndroma. Ejemplo: *Yo hago yoga hoy*
-
-		cad1=input("Frase:")
-		cad2=""
-		for caracter in cad1:
-			if caracter!=" ":
-				cad2=cad2+caracter		
-
-		if cad2.lower()==cad2[::-1].lower():
-			print("palindromo")
-		else:
-			print("no palindromo")
