@@ -96,16 +96,7 @@ y reducir la posibilidad de errores de manipulación. El primero de ellos valida
 
 	Escribe un programa que pida al usuario un CCC en el formato arriba indicado y compruebe su validez.
 
-7. Puedes realizar el ejercicio anterior de otra forma, puedes plantear una solución de "fuerza bruta"que consiste en ir construyendo palabras cada vez más complejas:
-
-	* Todas las palabras con un caracter
-	* Todas las palabras con dos caracteres
-	* Todas las palabras con tres caracteres
-	* ...
-	
-	La relación entre el tiempo empleado en romper la contraseña y su longitud es exponencial, por eso se recomienda hoy en día utilizar una contraseña de 10 caracteres o más.
-
-8. Escribe un programa para jugar al ahorcado.
+7. Escribe un programa para jugar al ahorcado.
 
 	* Un jugador introduce una palabra secreta y otro jugador tratará de adivinarla.
 	* La pantalla se limpia y aparece la horca vacía, el número de intentos y la palabra a acertar, donde cada letra se sustituye por un asterisco.
