@@ -13,11 +13,11 @@
 		La segunda cadena es una subcadena de la primer
 
 
-2. Escribir un programa python que dado una palabra diga si es un palíndromo. Un palíndromo Un palíndromo es una palabra, número o frase que se lee igual hacia adelante que hacia atrás. Ejemplo: *reconocer*
+2. Escribir un programa python que dado una palabra diga si es un palíndromo. Un palíndromo es una palabra, número o frase que se lee igual hacia adelante que hacia atrás. Ejemplo: *reconocer*
 
 	Modifica el programa para que compruebe si una frase es palíndroma. Ejemplo: *Yo hago yoga hoy*
 
-3. Escribe una función que determina si una cadena de texto *no* tiene caracteres repetidos.
+3. Escribe una programa que pida una cadena de caracteres y diga si *no* tiene caracteres repetidos.
 
 4. Tenemos la siguiente variable definida en nuestro programa:
 
@@ -34,7 +34,7 @@
 
 	Ayuda: Puede venir muy bien utilizar el método `split` de cadenas.
 
-5. Juego Mastermind. El juego consiste en que el ordenador piensa en 4 dígitos no repetidos (se guardan en una cadena de caracteres). Luego se va pediendo al usuario número de 4 dígitos para acertar el que ha generado de forma aleatoria. La respuesta del programa será la siguiente:
+5. Juego Mastermind. El juego consiste en que el ordenador piensa en 4 dígitos no repetidos (se guardan en una cadena de caracteres). Luego se va pidiendo al usuario número de 4 dígitos para acertar el que ha generado de forma aleatoria. La respuesta del programa será la siguiente:
 
 	* Si acertamos un dígito y está en la misma posición contará un acierto
 	* Si acertamos un dígito pero no está en la mismo posición contará una coincidencia.
