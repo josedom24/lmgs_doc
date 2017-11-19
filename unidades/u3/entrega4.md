@@ -20,12 +20,12 @@
 
 4. Tenemos la siguiente variable definida en nuestro programa:
 
-	temperaturas='''
-		Utrera,29,12
-		Dos Hermanas,32,14
-		Sevilla,30,15
-		Alcalá de Guadaíra,31,14
-		'''
+		temperaturas='''
+			Utrera,29,12
+			Dos Hermanas,32,14
+			Sevilla,30,15
+			Alcalá de Guadaíra,31,14
+			'''
 
 	En esa cadena se definen nombres de poblaciones y las temperaturas máximas y mínimas de dichas poblaciones durante un día.
 
