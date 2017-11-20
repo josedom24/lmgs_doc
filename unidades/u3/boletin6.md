@@ -165,10 +165,8 @@ pierna izquierda y pierna derecha.
 
 	* Para limpiar la pantalla se puede utilizar (en GNU/Linux):
 		
-		 
-		```
 		import os
 		os.system ('clear')
-		```
+
 
 
