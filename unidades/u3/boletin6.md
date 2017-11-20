@@ -19,9 +19,9 @@ correspondiente de la siguiente tabla:
 
 3. El módulo `random` incluye la función `random()` que genera un número seudo-aleatorio entre 0 y 1:
 	
-	>>> from random import random
-	>>> random()
-	0.51605767814317494
+		>>> from random import random
+		>>> random()
+		0.51605767814317494
 
 	Crea un programa que pida al usuario un número n y genere una lista con n elementos con valores aleatorios y muestre como salida:
 
