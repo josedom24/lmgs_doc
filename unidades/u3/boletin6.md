@@ -131,13 +131,13 @@ pierna izquierda y pierna derecha.
 
 		EL JUEGO DEL AHORCADO
 
-		  +---+
-		  |	  |
-		  o	  |
-		 /|	  |
-		  	  |
-		  	  |
-		  ======
+		   +---+
+		   |   |
+		   o   |
+		  /|   |
+		       |
+		       |
+		   ======
 
 		Palabra a acertar :y**t*p***t*
 		Fallos : 3
