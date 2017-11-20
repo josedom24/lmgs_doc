@@ -12,8 +12,8 @@
 2. La letra del DNI se calcula a partir de su número. Para ello se divide el número entre 23 y el resto (que tiene que ser un número entre 0 y 22 se sustituye por la letra
 correspondiente de la siguiente tabla:
 
-	0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
-	T R W A G M Y F P D X  B  N  J  Z  S  Q  V  H  L  C  K  E
+		0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+		T R W A G M Y F P D X  B  N  J  Z  S  Q  V  H  L  C  K  E
 
 Escribe un programa que te pida un número de DNI y una letra y te diga si es correcto o no.
 
