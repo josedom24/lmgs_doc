@@ -101,6 +101,7 @@ y reducir la posibilidad de errores de manipulación. El primero de ellos valida
 	* Un jugador introduce una palabra secreta y otro jugador tratará de adivinarla.
 	* La pantalla se limpia y aparece la horca vacía, el número de intentos y la palabra a acertar, donde cada letra se sustituye por un asterisco.
 
+		```
 		EL JUEGO DEL AHORCADO
 
 		  +---+
@@ -116,7 +117,7 @@ y reducir la posibilidad de errores de manipulación. El primero de ellos valida
 		Letras utilizadas :
 
 		Introduce una letra ( '*' para resolver ):
-
+		```
 	Reglas del juego:
 
 	* El jugador puede cometer como máximo 6 fallos. Por cada fallo aparecerá un elemento más en la horca: cabeza, tronco, brazo izquierdo, brazo derecho,
@@ -129,6 +130,7 @@ pierna izquierda y pierna derecha.
 	* Cualquier otro carácter que se introduzca: numero o signo de puntuación, contará como fallo.
 	* En un momento cualquiera el programa mostrará:
 
+		```
 		EL JUEGO DEL AHORCADO
 
 		   +---+
@@ -144,10 +146,12 @@ pierna izquierda y pierna derecha.
 		Letras utilizadas : y n m p t b 
 
 		Introduce una letra ( '*' para resolver ):
+		```
 
 	* Se obtendrá mayor puntuación en el ejercicio si se estructura adecuadamente el código mediante el uso de funciones.
 	* Para que no se desplacen los caracteres a posiciones no deseadas, utiliza el triple apóstrofe con el print, por ejemplo:
 
+		```
 		>>> print('''
 		  +---+
 		  |	  |
@@ -157,10 +161,14 @@ pierna izquierda y pierna derecha.
 		  	  |
 		  ======
 		''')
+		```
 
 	* Para limpiar la pantalla se puede utilizar (en GNU/Linux):
 		
+		 
+		```
 		import os
 		os.system ('clear')
+		```
 
 
