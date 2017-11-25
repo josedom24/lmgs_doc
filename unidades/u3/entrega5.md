@@ -32,10 +32,8 @@
 	* El programa te pedirá por teclado un código y te mostrará el nombre del artículo.
 
 	Veamos un ejemplo de la lista almacen:
-		
+
 		[[1, "Escoba", 30, 10.5 ], [2, "Fregona", 5, 12.23]]
-
-
 
 5. **(7 puntos)** Realizar una aplicación que recoja por teclado la cantidad total a pagar y la cantidad que se ha entregado. La aplicación debe calcular el cambio correspondiente con el menor número de monedas y/o billetes posibles.
 
