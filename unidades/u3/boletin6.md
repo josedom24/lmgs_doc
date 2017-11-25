@@ -38,8 +38,10 @@ correspondiente de la siguiente tabla:
 
 4. Escribe un programa que pida al usuario su fecha de nacimiento y le responda el día de la semana correspondiente (para ello debes utilizar la función adecuada del módulo calendar). Ejemplo:
 
-	Introduce tu fecha de nacimiento (DD-MM-YYYY): 29-02-1992
-	Naciste en sabado
+	Ejemplo
+
+		Introduce tu fecha de nacimiento (DD-MM-YYYY): 29-02-1992
+		Naciste en sabado
 
 5. Una dirección 6to4 es una dirección IPv6 reservada para equipos que tienen actualmente una dirección IPv4 pública. Un ejemplo de dirección 6to4 sería:
 
@@ -90,6 +92,7 @@ y reducir la posibilidad de errores de manipulación. El primero de ellos valida
 			return resto
 
 	Por ejemplo:
+	
 		>>> lista = [1, 6, 7, 0, 0, 0, 0, 3, 3, 2]
 		>>> calcula_dc(lista)
 		5
