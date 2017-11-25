@@ -41,5 +41,6 @@
    boletin4
    resuelto4
    boletin5
+   resuelto5
    boletin6
 ```
