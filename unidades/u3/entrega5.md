@@ -33,9 +33,9 @@
 
 	Cuando terminemos de rellenar la lista, se mostrará la siguiente información:
 
-	* El código, nombre y precio con IVA (21 %) del cada artículo.
-	* El código y nombre de artículo cuya cantidad sea menor de 10.
-	* El programa te pedirá por teclado un código y te mostrará el nombre del artículo.
+		* El código, nombre y precio con IVA (21 %) del cada artículo.
+		* El código y nombre de artículo cuya cantidad sea menor de 10.
+		* El programa te pedirá por teclado un código y te mostrará el nombre del artículo.
 
 
 5. **(7 puntos)** Realizar una aplicación que recoja por teclado la cantidad total a pagar y la cantidad que se ha entregado. La aplicación debe calcular el cambio correspondiente con el menor número de monedas y/o billetes posibles.
