@@ -25,17 +25,16 @@
 	* Si a=0, es una ecuación de primer grado x=-c/b
 	* Si b^2-4ac<0: Se da un mensaje: "raíces complejas"
 
-4. **(4 puntos)** Vamos a realizar un programa para llevar el control de almacén, para ello vamos a guardar cada artículo en una lista llamada "almacen". De cada producto hay que pedir el código, el nombre, la cantidad y el precio, estos datos se guardarán en una lista, y esta a su vez se guardará en la lista "almacen". Se pedirán datos por teclado hasta que se meta cómo código de artículo el 0.
+4. **(4 puntos)** Vamos a realizar un programa para llevar el control de almacén, para ello vamos a guardar cada artículo en una lista llamada "almacen". De cada producto hay que pedir el código, el nombre, la cantidad y el precio, estos datos se guardarán en una lista, y esta a su vez se guardará en la lista "almacen". Se pedirán datos por teclado hasta que se meta cómo código de artículo el 0. Cuando terminemos de rellenar la lista, se mostrará la siguiente información:
+
+	* El código, nombre y precio con IVA (21 %) del cada artículo.
+	* El código y nombre de artículo cuya cantidad sea menor de 10.
+	* El programa te pedirá por teclado un código y te mostrará el nombre del artículo.
 
 	Veamos un ejemplo de la lista almacen:
 		
 		[[1, "Escoba", 30, 10.5 ], [2, "Fregona", 5, 12.23]]
 
-	Cuando terminemos de rellenar la lista, se mostrará la siguiente información:
-
-		* El código, nombre y precio con IVA (21 %) del cada artículo.
-		* El código y nombre de artículo cuya cantidad sea menor de 10.
-		* El programa te pedirá por teclado un código y te mostrará el nombre del artículo.
 
 
 5. **(7 puntos)** Realizar una aplicación que recoja por teclado la cantidad total a pagar y la cantidad que se ha entregado. La aplicación debe calcular el cambio correspondiente con el menor número de monedas y/o billetes posibles.
