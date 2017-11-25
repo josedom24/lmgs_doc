@@ -15,19 +15,20 @@
 
 2. **(3 puntos)** Escribir un programa en python que vaya leyendo cadenas por teclado y la vaya guardando en una lista. Se terminará de pedir palabras cuando se introduzca un "\*". A continuación mostrará la siguiente información:
 
-* Mostrará la lista ordenada alfabéticamente.
-* Se mostrará las cadenas que tengan más de 5 caracteres.
-* ¿Cuantas cadenas empiezan por una vocal?
-* ¿Se ha introducido alguna cadena con un espacio?
-* Para terminar se pedirá otra cadena por teclado y se mostrarán todas las cadenas de la lista que comiencen por dicha cadena.
+	* Mostrará la lista ordenada alfabéticamente.
+	* Se mostrará las cadenas que tengan más de 5 caracteres.
+	* ¿Cuantas cadenas empiezan por una vocal?
+	* ¿Se ha introducido alguna cadena con un espacio?
+	* Para terminar se pedirá otra cadena por teclado y se mostrarán todas las cadenas de la lista que comiencen por dicha cadena.
 
 3. **(3 puntos)** Escribir un programa en python que calcule la raíz cuadrada: ax^2+bx+c=0. Para ello debemos introducir por teclado el coeficiente a,b y c. Puede ocurrir las siguientes cosas:
-* Si a=0, es una ecuación de primer grado x=-c/b
-* Si b^2-4ac<0: Se da un mensaje: "raíces complejas"
+	* Si a=0, es una ecuación de primer grado x=-c/b
+	* Si b^2-4ac<0: Se da un mensaje: "raíces complejas"
 
 4. **(4 puntos)** Vamos a realizar un programa para llevar el control de almacén, para ello vamos a guardar cada artículo en una lista llamada "almacen". De cada producto hay que pedir el código, el nombre, la cantidad y el precio, estos datos se guardarán en una lista, y esta a su vez se guardará en la lista "almacen". Se pedirán datos por teclado hasta que se meta cómo código de artículo el 0.
 
 	Veamos un ejemplo de la lista almacen:
+		
 		[[1, "Escoba", 30, 10.5 ], [2, "Fregona", 5, 12.23]]
 
 	Cuando terminemos de rellenar la lista, se mostrará la siguiente información:
