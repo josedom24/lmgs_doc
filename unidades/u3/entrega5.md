@@ -1,6 +1,6 @@
 # Boletín Entrega 5: Final 1ª Evaluación
 
-1. **(3 puntos)**: Escribe un programa python que pida una fecha (pedir día, mes y año). El programa tiene que indicar si la fecha es correcta o no (teniendo en cuanta los años bisiestos). Si la fecha es correcta debe imprimer el día juliano. El día juliano es el número de días que han pasado desde el 1 de enero.
+1. **(3 puntos)**: Escribe un programa python que pida una fecha (pedir día, mes y año separadas por `/`). El programa tiene que indicar si la fecha es correcta o no (teniendo en cuanta los años bisiestos). Si la fecha es correcta debe imprimer el día juliano. El día juliano es el número de días que han pasado desde el 1 de enero.
 
 	Ejemplo:
 
