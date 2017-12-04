@@ -25,6 +25,8 @@
    python17
    python18
    python19
+   python20
+   python21
 ```
 ## Ejercicios
 
@@ -41,5 +43,6 @@
    boletin4
    resuelto4
    boletin5
+   resuelto5
    boletin6
 ```

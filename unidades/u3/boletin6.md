@@ -38,6 +38,11 @@ correspondiente de la siguiente tabla:
 
 4. Escribe un programa que pida al usuario su fecha de nacimiento y le responda el día de la semana correspondiente (para ello debes utilizar la función adecuada del módulo calendar). Ejemplo:
 
+<<<<<<< HEAD
+=======
+	Ejemplo
+
+>>>>>>> d5bf151ac229b3684509122241e5cd60c6722390
 		Introduce tu fecha de nacimiento (DD-MM-YYYY): 29-02-1992
 		Naciste en sabado
 
@@ -90,7 +95,11 @@ y reducir la posibilidad de errores de manipulación. El primero de ellos valida
 			return resto
 
 	Por ejemplo:
+<<<<<<< HEAD
 
+=======
+	
+>>>>>>> d5bf151ac229b3684509122241e5cd60c6722390
 		>>> lista = [1, 6, 7, 0, 0, 0, 0, 3, 3, 2]
 		>>> calcula_dc(lista)
 		5
@@ -165,9 +174,9 @@ pierna izquierda y pierna derecha.
 		```
 
 	* Para limpiar la pantalla se puede utilizar (en GNU/Linux):
-		
+		```
 		import os
 		os.system ('clear')
-
+		```
 
 
