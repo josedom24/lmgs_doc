@@ -28,6 +28,8 @@ Supongamos que tenemos en nuestro sistema el usuario `prueba` con contraseña `a
 
 donde `asdasd` es la contraseña en claro.
 
+Escribe un programa que lea un usuario y una contraseña, y te informe si el usuario es válido o no.
+
 ### Ejercicio 3
 
 Utilizando el ejercicio anterior, crea una aplicación simple de craqueo de contraseñas utilizando los ficheros que puedes encontrar en el [repositorio](https://github.com/danielmiessler/SecLists/tree/master/Passwords).
