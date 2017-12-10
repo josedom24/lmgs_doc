@@ -1,8 +1,12 @@
 # Boletín Entrega 6: Ejercicios diccionarios, ficheros, ...
 
-1. Realiza el ejercicio 6 del boletín 6. Amplia la funcionalidad del ejercicio 6 del boletín 6, además de decirte si el número de cuenta es válido, te tiene que mostrar el nombre de la identidad bancaría que leerá del fichero (bancos.txt)[doc/bancos.txt]. (2 puntos)
+### Ejercicio 1
 
-2. Implementa un sistema completo de validación de usuarios en una máquina con Debian, que tiene las siguientes características:
+Realiza el ejercicio 6 del boletín 6. Amplia la funcionalidad del ejercicio 6 del boletín 6, además de decirte si el número de cuenta es válido, te tiene que mostrar el nombre de la identidad bancaría que leerá del fichero (bancos.txt)[doc/bancos.txt]. (2 puntos)
+
+### Ejercicio 2
+
+Implementa un sistema completo de validación de usuarios en una máquina con Debian, que tiene las siguientes características:
 	* El nombre de usuario y las contraseñas se almacenan en el fichero `/etc/shadow`, al que tiene acceso sólo el usuario root.
 	* Las contraseñas se almacenan como un hash AES512 con sal
 
