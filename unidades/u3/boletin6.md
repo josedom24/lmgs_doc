@@ -92,11 +92,7 @@ y reducir la posibilidad de errores de manipulación. El primero de ellos valida
 			return resto
 
 	Por ejemplo:
-<<<<<<< HEAD
 
-=======
-	
->>>>>>> d5bf151ac229b3684509122241e5cd60c6722390
 		>>> lista = [1, 6, 7, 0, 0, 0, 0, 3, 3, 2]
 		>>> calcula_dc(lista)
 		5
