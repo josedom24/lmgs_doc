@@ -11,7 +11,15 @@
 
 		prueba:$6$/nNkCgcv$r.FooJSMDwP2gd4MAsoRTTLoOVpsIF2EyxW59ryWW7bpKUxulWX9CpEWknaDBzHWYJ2q9gqxEyfQl93u7okPa.:15059:0:99999:7::::
 
-	
+	* La sal de una contraseña cifrada se indica en linux por los 12 primeros caracteres del hash de la contraseña, en el caso anterior la sal sería `$6$/nNkCgcv$`.
+	* La función `crypt` del módulo `crypt` permite formar los hashes con sal utilizados por linux, de la siguiente manera:
+
+        >>> from crypt import crypt
+		>>> crypt('asdasd','$6$/nNkCgcv$')
+		'$6$/nNkCgcv$r.FooJSMDwP2gd4MAsoRTTLoOVpsIF2EyxW59ryWW7bpKUxul\WX9CpEWknaDBzHWYJ2q9gqxEyfQl93u7okPa.'
+
+	donde `asdasd` es la contraseña en claro.
+
 3. Utilizando el ejercicio anterior, crea una aplicación simple de craqueo de contraseñas utilizando los ficheros que puedes encontrar en el repositorio `https://github.com/danielmiessler/SecLists/tree/master/Passwords`.
 
 4. Utilizando el fichero [notas.csv](doc/notas.csv), realiza un programa en python que lea los datos de ese fichero y construya la siguiente estructura: 
