@@ -38,11 +38,8 @@ correspondiente de la siguiente tabla:
 
 4. Escribe un programa que pida al usuario su fecha de nacimiento y le responda el día de la semana correspondiente (para ello debes utilizar la función adecuada del módulo calendar). Ejemplo:
 
-<<<<<<< HEAD
-=======
 	Ejemplo
 
->>>>>>> d5bf151ac229b3684509122241e5cd60c6722390
 		Introduce tu fecha de nacimiento (DD-MM-YYYY): 29-02-1992
 		Naciste en sabado
 
