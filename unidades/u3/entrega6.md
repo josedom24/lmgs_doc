@@ -15,9 +15,11 @@
 	* La sal de una contraseña cifrada se indica en linux por los 12 primeros caracteres del hash de la contraseña, en el caso anterior la sal sería **$6$/nNkCgcv$**.
 	* La función `crypt` del módulo `crypt` permite formar los hashes con sal utilizados por linux, de la siguiente manera:
 
+        ```python
         >>> from crypt import crypt
 		>>> crypt('asdasd','$6$/nNkCgcv$')
 		'$6$/nNkCgcv$r.FooJSMDwP2gd4MAsoRTTLoOVpsIF2EyxW59ryWW7bpKUxul\WX9CpEWknaDBzHWYJ2q9gqxEyfQl93u7okPa.'
+        ```
 
 	donde `asdasd` es la contraseña en claro.
 
