@@ -2,7 +2,7 @@
 
 ### Ejercicio 1
 
-Realiza el ejercicio 6 del boletín 6. Amplia la funcionalidad del ejercicio 6 del boletín 6, además de decirte si el número de cuenta es válido, te tiene que mostrar el nombre de la identidad bancaria que leerá del fichero [bancos.txt](doc/bancos.txt). (2 puntos)
+Realiza el ejercicio 6 del boletín 6. Amplia la funcionalidad del ejercicio 6 del boletín 6, además de decirte si el número de cuenta es válido, te tiene que mostrar el nombre de la identidad bancaria que leerá del fichero [bancos.txt](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u3/doc/bancos.txt). (2 puntos)
 
 ### Ejercicio 2
 
@@ -34,7 +34,7 @@ Utilizando el ejercicio anterior, crea una aplicación simple de craqueo de cont
 
 ### Ejercicio 4
 
-Utilizando el fichero [notas.csv](../../doc/notas.csv), realiza un programa en python que lea los datos de ese fichero y construya la siguiente estructura: 
+Utilizando el fichero [notas.csv](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u3/doc/notas.csv), realiza un programa en python que lea los datos de ese fichero y construya la siguiente estructura: 
 
     alumnos = [ {"nombre":"Daniel", "apellidos":"Fustero López", "curso": "1A","notas":{"FH":3,"LM":4,"ISO":5,"FOL":6,"PAR":7,"SGBG":6}},
                     {"nombre":"Rafaela", ... },...]
@@ -48,7 +48,7 @@ Crea un programa que muestre un menú y puedas elegir una de estas opciones:
 
 ### Ejercicio 5
 
-Descarga el fichero [zips.json](docs/zips.json) del sitio de mongodb. Se trata de un listado de los códigos postales de EEUU en formato JSON (lo que Python denomina diccionarios y listas). Realiza los siguientes ejercicios
+Descarga el fichero [zips.json](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u3/doc/zips.json) del sitio de mongodb. Se trata de un listado de los códigos postales de EEUU en formato JSON (lo que Python denomina diccionarios y listas). Realiza los siguientes ejercicios
 
 * Cuenta el número de códigos postales que aparecen
 * Cuenta el número de códigos postales de cada estado
