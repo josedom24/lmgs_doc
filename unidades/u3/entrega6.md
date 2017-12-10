@@ -37,7 +37,7 @@ Utilizando el ejercicio anterior, crea una aplicación simple de craqueo de cont
 Utilizando el fichero [notas.csv](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u3/doc/notas.csv), realiza un programa en python que lea los datos de ese fichero y construya la siguiente estructura: 
 
     alumnos = [ {"nombre":"Daniel", "apellidos":"Fustero López", "curso": "1A","notas":{"FH":3,"LM":4,"ISO":5,"FOL":6,"PAR":7,"SGBG":6}},
-                    {"nombre":"Rafaela", ... },...]
+                {"nombre":"Rafaela", ... },...]
 
 Crea un programa que muestre un menú y puedas elegir una de estas opciones:
     
