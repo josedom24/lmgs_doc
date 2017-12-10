@@ -30,7 +30,7 @@ donde `asdasd` es la contraseña en claro.
 
 ### Ejercicio 3
 
-Utilizando el ejercicio anterior, crea una aplicación simple de craqueo de contraseñas utilizando los ficheros que puedes encontrar en el repositorio `https://github.com/danielmiessler/SecLists/tree/master/Passwords`.
+Utilizando el ejercicio anterior, crea una aplicación simple de craqueo de contraseñas utilizando los ficheros que puedes encontrar en el [repositorio](https://github.com/danielmiessler/SecLists/tree/master/Passwords).
 
 ### Ejercicio 4
 
@@ -54,11 +54,11 @@ Descarga el fichero [zips.json](docs/zips.json) del sitio de mongodb. Se trata d
 * Cuenta el número de códigos postales de cada estado
 * Obtén la URL del mapa de OpenStreetMap de la ciudad de "Akaska" en el estado de Dakota del Sur (SD). Nota: Las coordenadas que aparecen en el fichero zips.json vienen en formato [longitud,latitud] y la url genérica que utiliza OpenStreetMap es:
 
-    http://www.openstreetmap.org/#map=zoom/latitud/longitud
+        http://www.openstreetmap.org/#map=zoom/latitud/longitud
 
 Por ejemplo:
 
-    [http://www.openstreetmap.org/#map=19/37.27058/-5.91958](http://www.openstreetmap.org/#map=19/37.27058/-5.91958) para ver con un zoom de nivel 19 la ubicación con latitud 37.27058 y longitud -5.91958
+[http://www.openstreetmap.org/#map=19/37.27058/-5.91958](http://www.openstreetmap.org/#map=19/37.27058/-5.91958) para ver con un zoom de nivel 19 la ubicación con latitud 37.27058 y longitud -5.91958
 
 ### Ejercicio 6
 
