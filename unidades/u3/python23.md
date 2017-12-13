@@ -84,34 +84,4 @@ Por último indicar que podemos indicar una clausula `finally` para indicar un b
 	...     print("Terminamos el programa")
 
 
-## Obteniendo información de las excepciones
 
-	>>> cad = "a"
-	>>> try:
-	...   i = int(cad)
-	... except ValueError as error:
-	...   print(type(error))
-	...   print(error.args)
-	...   print(error)
-	... 
-	<class 'ValueError'>
-	("invalid literal for int() with base 10: 'a'",)
-	invalid literal for int() with base 10: 'a'
-
-## Propagando excepciones. raise
-
-Si construimos una función donde se maneje una excepción podemos hacer que la excepción se envía a la función desde la que la hemos llamado. Para ello utilizamos la instrucción `raise`. Veamos algunos ejemplos:
-
-	def dividir(x,y):
-		try:
-			return x/y
-		except ZeroDivisionError:
-			raise 
-
-Con `raise` también podemos propagar una excepción en concreto:
-
-	def nivel(numero):
-		if numero<0:
-			raise ValueError("El número debe ser positivo:"+str(numero))
-		else:
-			return numero
