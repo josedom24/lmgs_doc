@@ -29,6 +29,9 @@
    python21
    python22
    python23
+   python24
+   python25
+   python26
 ```
 ## Ejercicios
 
