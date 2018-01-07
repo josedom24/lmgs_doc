@@ -117,3 +117,16 @@ La instrucción `return` puede devolver cualquier tipo de resultados, por lo tan
 	3
 	>>> producto
 	10
+
+## Funciones recursivas
+
+Una función recursiva es aquella que al ejecutarse hace llamadas a ella misma. Por lo tento tenemos que tener "un caso base" que hace terminar el bucle de llamadas. Veamos un ejemplo:
+
+	>>> def factorial(numero):
+	...     if(numero == 0 or numero == 1):
+	...         return 1
+	...     else:
+	...         return numero * factorial(numero-1)
+	... 
+	>>> factorial(5)
+	120
