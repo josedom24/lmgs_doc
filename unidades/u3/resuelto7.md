@@ -70,10 +70,10 @@
 			
 			## Búsqueda
 			filtro={}
-			campo=input("Introuzca un campo para buscar:")
+			campo=input("Introduzca un campo para buscar:")
 			while campo!="*":
-				filtro[campo]=input("Introuzca valor a buscar:")
-				campo=input("Introuzca otro campo a buscar:")
+				filtro[campo]=input("Introduzca valor a buscar:")
+				campo=input("Introduzca otro campo a buscar:")
 			print(buscar(agenda,**filtro))
 
 5. Realizar una función recursiva que reciba una lista y que calcule el producto de los elementos de la lista.
