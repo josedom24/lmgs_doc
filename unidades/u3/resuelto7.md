@@ -5,15 +5,15 @@
     * La cantidad de segundos en un tiempo dado en horas, minutos y segundos.
     * La cantidad de horas, minutos y segundos de un tiempo dado en segundos.
 
-		def calcular_segundos(horas,minutos,segundos):
-			return horas*3600+minutos*60+segundos			
+			def calcular_segundos(horas,minutos,segundos):
+				return horas*3600+minutos*60+segundos				
 
-		def calcular_horas(segundos):
-			horas = segundos // 3600
-			segundos-=horas*3600
-			minutos = segundos // 60
-			segundos-=minutos*60
-			return horas,minutos,segundos
+			def calcular_horas(segundos):
+				horas = segundos // 3600
+				segundos-=horas*3600
+				minutos = segundos // 60
+				segundos-=minutos*60
+				return horas,minutos,segundos
 
 
 2. Realiza una función que dependiendo de los parámetros que reciba: convierte a segundos o a horas:
@@ -21,13 +21,13 @@
     * Si recibe un argumento, supone que son segundos y convierte a horas, minutos y segundos.
     * Si recibe 3 argumentos, supone que son hora, minutos y segundos y los convierte a segundos.
 
-	    def calcular(*args):
-		if len(args)==1:
-			return calcular_horas(args[0])
-		elif len(args)==3:
-			return calcular_segundos(*args)
-		else:
-			raise TypeError("Se espera 1 o 3 parámetros")
+		    def calcular(*args):
+			if len(args)==1:
+				return calcular_horas(args[0])
+			elif len(args)==3:
+				return calcular_segundos(*args)
+			else:
+				raise TypeError("Se espera 1 o 3 parámetros")
 
 3. Queremos hacer una función que añada a una lista los contactos de una agenda. Los contactos se van a guardar en un diccionario, y al menos debe tener el campo de nombre, el campo del teléfono, aunque puede tener más campos. Los datos se irán pidiendo por teclado, se pedirá de antemanos cuantos contactos se van a guardar. Si vamos a guardar más información en el contacto, se irán pidiendo introduciendo campos hasta que introduzcamos el `*`. 
 
