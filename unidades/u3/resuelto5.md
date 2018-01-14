@@ -8,12 +8,12 @@
     * Dicha cadena en sentido inverso. Ej.: hola mundo! debe imprimir !odnum aloh
     * Imprima la cadena en un sentido y en sentido inverso. Ej: reflejo imprime reflejoojelfer.
 
-    	cad=input("Cadena:")
-		print(cad[:2])
-		print(cad[-2:])
-		print(cad[::2])
-		print(cad[::-1])
-		print(cad+cad[::-1])
+    		cad=input("Cadena:")
+			print(cad[:2])
+			print(cad[-2:])
+			print(cad[::2])
+			print(cad[::-1])
+			print(cad+cad[::-1])
 
 2. Crear un programa que lea por teclado una cadena y un carácter, e inserte el carácter entre cada letra de la cadena. Ej: separar y , debería devolver s,e,p,a,r,a,r
 
