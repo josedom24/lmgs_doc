@@ -1,18 +1,20 @@
-# Boletín 7: Ejercicios funciones
+# Boletín 7: Ejercicios de funciones
 
-Necesitamos que se facture el uso de un teléfono. Nos informarán de la tarifa por segundo (en centimos), cuántas comunicaciones se realizaron, la duración de cada comunicación expresada en horas, minutos y segundos. Como resultado deberemos informar la duración en segundos de cada comunicación y su costo.
+1. Escribir dos funciones que permitan calcular:
 
-Vamos a dividir este problemas en problemas más pequeños:
+    * La cantidad de segundos en un tiempo dado en horas, minutos y segundos.
+    * La cantidad de horas, minutos y segundos de un tiempo dado en segundos.
 
-* Cada comunicación se expresa en horas, minútos y segundos, la tarifa es € por segundos, por lo tanto lo primero que vamos a solucionar es convertir las horas, minútos y segundos en segundos. Para ello vamos acrear una función llamada **pasar_a_segundos**. Piensa los parámetros de entrada que tiene esta función y el valor que devuelve. ¿De qué tipo son?
-* Una vez que sabemos los segundos que ha tardado una comunicación y la tarifa por segundos vamos a crear una función llamada **calcular_coste** que nos calcule cuanto cuesta, en centimos, la llamada. Piensa los parámetros y el valor devuleto de la función.
-* Por último vamos a crear una función para convertir el coste en centimos, en una cantidad de dinero expresda en euros y centimos. Para ello creamos la función **convertir_a_euros**. Piensa los parametros de entrada y los valores devueltos.
+2. Realiza una función que dependiendo de los parámetros que reciba: convierte a segundos o a horas:
 
-**Ejercicios**
+    * Si recibe un argumento, supone que son segundos y convierte a horas, mintos y segundos.
+    * Si recibe 3 argumentos, supone que son hora, minutos y segundos y los convierte a segundos.
 
-1. Crea un programa que te pregunte por teclado la tarifa por segundos en centimos, el número de comunicaciones que se han realizado, y te vaya piediendo horas, minutos y segundo que han durado cada una de las comunicaciones. Finalmente te mostrará cuanto ha costado cada una de las comunicaciones y el total de dinero de todas las comunicaciones.
+3. Queremos hacer una función que añada a una lista los contactos de una agenda. Los contactos se van a guardar en un diccionario, y al menos debe tener el campo de nombre, el campo del teléfono, aunque puede tener más campos. Los datos se irán pidiendo por teclado, se pedirá de antemanos cuantos contactos se van a guardar. Si vamos a guardar más información en el contacto, se irán pidiendo introduciendo campos hasta que introduzcamos el `*`. 
 
-2. Realiza un programa que te informe de cuanto vale cada comunicación y el total de dinero de todas las comunicaciones. En esta ocasión los datos de la duración de las comunicaciones y la tarifa por segundos se encuetran en este [fichero](comunicaciones.txt) donde en la primera línea te encuentras la tarifa, y en las restantes la duración de cda una de las comunicaciones expresdas en horas, minutos y segundos.
+4. Amplía el programa anterior para hacer una función de búsqueda, que reciba un conjunto de parámetros keyword y devuelve los contactos (en una lista) que coincidan con los criterios de búsqueda.
+
+5. Realizar una función recursiva que reciba una lista y que calcule el producto de los elementos de la lista.
 
 
 
