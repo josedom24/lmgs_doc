@@ -4,9 +4,14 @@
 
 * [Introducción a XML](https://github.com/josedom24/lmgs_doc/raw/master/unidades/u5/doc/unidad1.1.pdf)
 
-
 ## Ejercicios
 
+```eval_rst
+.. toctree::
+   :maxdepth: 1
+
+   ejercicio1
+```
 
 ## Recursos
 
