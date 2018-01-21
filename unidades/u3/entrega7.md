@@ -2,7 +2,7 @@
 
 Vamos a crear un programa que lea los resultados de los partidos de la liga española en el año 2016-2017, y nos devuelva información sobre estos datos.
 
-El programa leerá la información del siguiente [fichero](doc/liga.csv), que tiene la siguiente estructura: Fecha, Equipo que juega en casa, Equipo que juega fuera, resultado al final del partido y resultado en el intermedio.
+El programa leerá la información del siguiente [fichero](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u3/liga.csv), que tiene la siguiente estructura: Fecha, Equipo que juega en casa, Equipo que juega fuera, resultado al final del partido y resultado en el intermedio.
 
 El programa ofrecerá un menú, para seleccionar la información deseada:
 
