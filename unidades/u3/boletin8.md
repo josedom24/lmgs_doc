@@ -12,7 +12,7 @@ Vamos a dividir este problemas en problemas más pequeños:
 
 1. Crea un programa que te pregunte por teclado la tarifa por segundos en centimos, el número de comunicaciones que se han realizado, y te vaya piediendo horas, minutos y segundo que han durado cada una de las comunicaciones. Finalmente te mostrará cuanto ha costado cada una de las comunicaciones y el total de dinero de todas las comunicaciones.
 
-2. Realiza un programa que te informe de cuanto vale cada comunicación y el total de dinero de todas las comunicaciones. En esta ocasión los datos de la duración de las comunicaciones y la tarifa por segundos se encuetran en este [fichero](comunicaciones.txt) donde en la primera línea te encuentras la tarifa, y en las restantes la duración de cda una de las comunicaciones expresdas en horas, minutos y segundos.
+2. Realiza un programa que te informe de cuanto vale cada comunicación y el total de dinero de todas las comunicaciones. En esta ocasión los datos de la duración de las comunicaciones y la tarifa por segundos se encuetran en este [fichero](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u3/comunicaciones.txt) donde en la primera línea te encuentras la tarifa, y en las restantes la duración de cda una de las comunicaciones expresdas en horas, minutos y segundos.
 
 
 
