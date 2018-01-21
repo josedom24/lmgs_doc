@@ -1,4 +1,4 @@
-# Boletín 8: Ejercicio de ficheros, diccionarios y funciones
+# Boletín Emtrega 7: Ejercicio de ficheros, diccionarios y funciones
 
 Vamos a crear un programa que lea los resultados de los partidos de la liga española en el año 2016-2017, y nos devuelva información sobre estos datos.
 
