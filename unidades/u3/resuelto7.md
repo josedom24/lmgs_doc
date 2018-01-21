@@ -1,4 +1,4 @@
-# Solución boletín 5: Ejercicios de funciones
+# Solución boletín 7: Ejercicios de funciones
 
 1. Escribir dos funciones que permitan calcular:
 

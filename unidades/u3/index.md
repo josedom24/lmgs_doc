@@ -52,5 +52,6 @@
    boletin6
    funciones
    boletin7
+   resuelto7
    boletin8
 ```
