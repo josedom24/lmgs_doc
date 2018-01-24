@@ -2,7 +2,7 @@
 
 ## Teoría
 
-* [Introducción a XML](https://github.com/josedom24/lmgs_doc/raw/master/unidades/u5/doc/unidad1.1.pdf)
+* [Introducción a XML](https://github.com/josedom24/lmgs_doc/blob/master/unidades/u5/doc/unidad1.1.pdf)
 
 ## Ejercicios
 
