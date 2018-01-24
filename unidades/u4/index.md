@@ -2,7 +2,7 @@
 
 ## Teoría
 
-* [Introducción a los lenguajes de marcas](https://github.com/josedom24/lmgs_doc/raw/master/unidades/u4/doc/unidad1.pdf)
+* [Introducción a los lenguajes de marcas](https://github.com/josedom24/lmgs_doc/blob/master/unidades/u4/doc/unidad1.pdf)
 * [Wikipedia - Lenguajes de marcado](https://es.wikipedia.org/wiki/Lenguaje_de_marcado)
 
 ## Ejercicios
