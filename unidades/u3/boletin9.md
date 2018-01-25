@@ -1,4 +1,4 @@
-# Boletín 9: Ejercicio de ficheros (3)
+# Boletín 9: Ejercicios funciones (3)
 
 Vamos a crear un programa que lea los resultados de los partidos de la liga española en el año 2016-2017, y nos devuelva información sobre estos datos.
 
