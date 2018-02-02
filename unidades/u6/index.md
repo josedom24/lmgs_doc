@@ -14,6 +14,7 @@
    :maxdepth: 1
    
    ejercicio1
+   ejercicio2
    
 ```
 
