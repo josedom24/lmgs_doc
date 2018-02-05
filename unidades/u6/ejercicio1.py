@@ -1,6 +1,6 @@
 from lxml import etree
 
-
+### Ejercicio 1
 def lista_provincias(arbol):
 # Buscamos subelementos dentro de él
 # Para cada elemento se definen 3 propiedades fundamentales:
@@ -12,6 +12,7 @@ def lista_provincias(arbol):
 		lista.append(nombre.text)
 	return lista
 
+### Ejercicio 2
 def lista_poblaciones(arbol):
 	lista=[]
 	provincias = arbol.findall('provincia')
@@ -21,6 +22,7 @@ def lista_poblaciones(arbol):
 			lista.append(localidad.text)
 	return lista
 
+### Ejercicio 3
 def lista_provincias_total_poblaciones(arbol):
 	lista=[]
 	provincias = arbol.findall('provincia')
@@ -35,7 +37,7 @@ def lista_provincias_total_poblaciones(arbol):
 		lista.append((nombre.text, len(localidades)))
 	return lista
 
-
+### Ejercicio 4
 def poblaciones(prov,arbol):
 	lista=[]
 	provincias = arbol.findall('provincia')
@@ -54,6 +56,52 @@ def poblaciones(prov,arbol):
 			break
 	return lista
 
+### Ejercicio 5
+def provincia(nombre_localidad,arbol):
+	localidades=arbol.findall('provincia/localidades/localidad')
+	for localidad in localidades:
+		if localidad.text==nombre_localidad:
+			for padre in localidad.iterancestors():
+				if padre.tag=="provincia":
+					return padre.find("nombre").text
+
+### Ejercicio 6
+def provincias_por_identificador(lista_id,arbol):
+	lista=[]
+	provincias= arbol.findall('provincia')
+	for provincia in provincias:
+		if provincia.attrib["id"] in lista_id:
+			nombre=provincia.find("nombre").text
+			localidades=provincia.findall("localidades/localidad")
+			lista_localidades=[]
+			for localidad in localidades:
+				lista_localidades.append(localidad.text)
+			lista.append((nombre,lista_localidades))
+	return lista
+
+### Ejercicio 7
+def localidades_grandes(prov,arbol):
+	lista=[]
+	provincias= arbol.findall('provincia')
+	for provincia in provincias:
+		nombre = provincia.find('nombre')
+		if nombre.text == prov:
+			localidades = provincia.findall('localidades/localidad')
+			for localidad in localidades:
+				if localidad.attrib["c"]=="1":
+					lista.append(localidad.text)
+			break
+	return(lista)
+
+### Ejercicio 8
+def localidad_grande(nombre_localidad,arbol):
+	localidades=arbol.findall('provincia/localidades/localidad')
+	for localidad in localidades:
+		if localidad.text==nombre_localidad and localidad.attrib["c"]=="1":
+			for padre in localidad.iterancestors():
+				if padre.tag=="provincia":
+					return padre.find("nombre").text
+	return None
 
 # Creamos el objeto arbol desde el fichero XML
 # Este objeto es de tipo ElementTree
@@ -64,16 +112,26 @@ arbol = etree.parse('provinciasypoblaciones.xml')
 for nombre in lista_provincias(arbol):
 	print (nombre)
 
-#Ejercicio 2
+##Ejercicio 2
 for nombre in lista_poblaciones(arbol):
 	print (nombre)
 
-# Ejercicio 3
-
+## Ejercicio 3#
 for nombre ,total in lista_provincias_total_poblaciones(arbol):
 	print (nombre,total)
 
-# Ejercicio 4
-for nombre in poblaciones("Sevilla",arbol):
+## Ejercicio 4
+for nombre in poblaciones("Dos Hermanas",arbol):
 	print (nombre)
 
+# Ejercicio 5
+print(provincia("Utrera",arbol))
+
+# Ejercicio 6
+print(provincias_por_identificador(["01","02"],arbol))
+
+# Ejercicio 7
+print(localidades_grandes("Sevilla",arbol))
+
+# Ejercicio 8
+print(localidad_grande("Sevilla",arbol))
