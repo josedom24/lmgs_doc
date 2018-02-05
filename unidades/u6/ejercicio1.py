@@ -50,11 +50,28 @@ def poblaciones(prov,arbol):
 		if nombre.text == prov:
 		# Almacenamos los elementos <localidad > en una lista
 			localidades = provincia.findall('localidades/localidad')
-			print(localidades)
 			for localidad in localidades:
 				lista.append(localidad.text)
 			break
 	return lista
+
+
+### Ejercicio 5.1
+def provinciav1(nombre_localidad,arbol):
+	lista=[]
+	provincias = arbol.findall('provincia')
+	for provincia in provincias:
+		localidades=provincia.findall("localidades/localidad")
+		for localidad in localidades:
+			if localidad.text==nombre_localidad:
+				return provincia.find("nombre").text
+	return None
+
+
+
+
+
+
 
 ### Ejercicio 5
 def provincia(nombre_localidad,arbol):
@@ -64,6 +81,7 @@ def provincia(nombre_localidad,arbol):
 			for padre in localidad.iterancestors():
 				if padre.tag=="provincia":
 					return padre.find("nombre").text
+	return None
 
 ### Ejercicio 6
 def provincias_por_identificador(lista_id,arbol):
@@ -128,7 +146,24 @@ for nombre in poblaciones("Dos Hermanas",arbol):
 print(provincia("Utrera",arbol))
 
 # Ejercicio 6
-print(provincias_por_identificador(["01","02"],arbol))
+lista_id=[]
+id=input("id:")
+while id!="0":
+	lista_id.append(id)
+	id=input("id:")
+
+lista=provincias_por_identificador(lista_id,arbol)
+for prov in lista:
+	nombre=prov[0]
+	localidades=prov[1]
+	print(nombre)
+	for loc in localidades:
+		print(loc)
+
+
+
+
+
 
 # Ejercicio 7
 print(localidades_grandes("Sevilla",arbol))
