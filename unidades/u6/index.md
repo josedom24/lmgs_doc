@@ -20,6 +20,11 @@
    
 ```
 
+### Ejercicios resueltos
+
+* [Ejercicio 1](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u6/ejercicio1.py)
+
+
 ## Recursos
 
 * [lxml - XML and HTML with Python](http://lxml.de/)
