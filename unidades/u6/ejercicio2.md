@@ -1,4 +1,4 @@
-# Ejercicio: Usuario de la moodle
+# Ejercicio: Usuarios de la moodle
 
 Utilizando el fichero [users.xml](https://github.com/josedom24/lmgs_doc/raw/master/unidades/u6/doc/users.xml.zip), realiza difierentes funciones python para obtener la  la siguiente información:
 
