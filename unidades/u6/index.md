@@ -6,6 +6,7 @@
 * [Trabajar con ficheros xml desde python (2ª parte)](http://www.josedomingo.org/pledin/2015/01/trabajar-con-ficheros-xml-desde-python_2/)
 * [Tutorial de XPATH](http://bibing.us.es/proyectos/abreproy/11774/fichero/2.4.-+XPath.pdf)
 	* [Repositorio de github: xpath](https://github.com/josedom24/xpath)
+	* [Code Beauty - XPath Tester](https://codebeautify.org/Xpath-Tester)
 
 ## Ejercicios
 
