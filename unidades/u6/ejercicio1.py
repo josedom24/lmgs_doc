@@ -68,11 +68,6 @@ def provinciav1(nombre_localidad,arbol):
 	return None
 
 
-
-
-
-
-
 ### Ejercicio 5
 def provincia(nombre_localidad,arbol):
 	localidades=arbol.findall('provincia/localidades/localidad')
