@@ -11,7 +11,7 @@ def latitudylongitud(arbol):
 
 def actual(arbol):
 	temp=arbol.find("condiciones_actuales/temperatura").text
-	viento=arbol.find("condiciones_actuales/viento").text+" "+arbol.find("condiciones_actuales/.viento").attrib["direccion"]
+	viento=arbol.find("condiciones_actuales/viento").text+" "+arbol.find("condiciones_actuales/viento").attrib["direccion"]
 	humedad=arbol.find("condiciones_actuales/humedad").text
 	return temp,viento,humedad
 
@@ -20,7 +20,6 @@ def actual(arbol):
 def pronostico(arbol):
 	pro={}
 	pronostico=arbol.findall("pronostico_dias/dia")
-	print(pronostico)
 	for dia in pronostico:
 		pro[dia.attrib["fecha"]]=(dia.find("maxima").text,dia.find("minima").text)
 
@@ -32,7 +31,7 @@ def buscar(fecha,hora,arbol):
 	for pro in pronostico:
 		if pro.attrib["id"]==hora and pro.attrib["fecha"]==fecha:
 			temp=pro.find("temperatura").text
-			viento=pro.find("viento").text+" "+pro.find(".viento").attrib["direccion"]
+			viento=pro.find("viento").text+" "+pro.find("viento").attrib["direccion"]
 			humedad=pro.find("humedad").text
 			return temp,viento,humedad
 	return None
