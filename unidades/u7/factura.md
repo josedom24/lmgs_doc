@@ -1,4 +1,4 @@
-# Ejercicio: esuema XML para facturas.
+# Ejercicio: esquema XML para facturas
 
 Utilizando como base el fichero [factura.xml](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u7/fich/factura.xml) que se te facilita, crea un esquema en formato XSD (XMLSchema) que permita validar facturas como la anterior y que tengan en cuenta también los siguientes aspectos:
 
