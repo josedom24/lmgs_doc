@@ -10,5 +10,6 @@
    u4/index
    u5/index
    u6/index
+   u7/index
 ```
 
