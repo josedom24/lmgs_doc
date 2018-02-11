@@ -24,7 +24,14 @@
 ### Ejercicios resueltos
 
 * [Ejercicio 1](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u6/ejercicio1.py)
+* [Ejercicio 1 xpath](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u6/ejercicio1_xpath.py)
 * [Ejercicio 2](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u6/ejercicio2.py)
+* [Ejercicio 2 xpath](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u6/ejercicio2_xpath.py)
+* [Ejercicio 3](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u6/ejercicio3.py)
+* [Ejercicio 3 xpath](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u6/ejercicio3_xpath.py)
+* [Ejercicio 4](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u6/ejercicio4.py)
+* [Ejercicio 4 xpath](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u6/ejercicio4_xpath.py)
+
 
 ## Recursos
 
