@@ -89,11 +89,11 @@ ejemplo1.xsd
 			<titulo>El Quijote de la Mancha</titulo>
 			<codigo>123</codigo>
 	    </libro>
-	  <libro>
-	  	<autor>Pablo Neruda</autor>
-	  	<titulo>Veinte poemas de amor y una canción desesperada</titulo>
-	  	<codigo>124</codigo>
-	  </libro>
+	  	<libro>
+	  		<autor>Pablo Neruda</autor>
+	  		<titulo>Veinte poemas de amor y una canción desesperada</titulo>
+	  		<codigo>124</codigo>
+	  	</libro>
 	</biblioteca>
 
 [libro3.xsd](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u7/fich/libro3.xsd)
