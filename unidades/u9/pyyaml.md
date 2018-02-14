@@ -1,4 +1,4 @@
-# Trabajando con YAML desde python3: pyyaml.yaml
+# Trabajando con YAML desde python3: pyyaml
 
 ## Instalación
 
