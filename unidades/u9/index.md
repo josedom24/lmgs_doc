@@ -23,4 +23,3 @@
 * [json2yaml](https://www.json2yaml.com/)
 * [YAML Lint](http://www.yamllint.com/)
 * [PyYAML Documentation](https://pyyaml.org/wiki/PyYAMLDocumentation)
-yaml
