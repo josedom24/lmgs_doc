@@ -1,8 +1,8 @@
-# HTML5 y CSS
+# JSON
 
 ## Teoría
 
-* [Curso de HTML5 desde cero](https://libro.cursohtml5desdecero.com/)
+* [Gestionar ficheros json](https://github.com/josedom24/curso_python3/tree/master/curso/u38)
 
 ## Ejercicios
 
@@ -10,18 +10,15 @@
 .. toctree::
    :maxdepth: 1
    
-   esquema
-   factura
-   autopistas
+   ejercicio1
+   ejercicio2
+   ejercicio3
    
 ```
 
 
 ## Recursos
 
-* [Eric Wilde. XML Foundations: XSD - Part I](http://dret.net/lectures/xml-fall10/xsd-1)
-* [Eric Wilde. XML Foundations: XSD - Part II](http://dret.net/lectures/xml-fall10/xsd-2)
-* [Eric Wilde. XML Foundations: XSD - Part III](http://dret.net/lectures/xml-fall10/xsd-3)
-
-* [openStreetMap API v0.6/XSD](https://wiki.openstreetmap.org/wiki/API_v0.6/XSD)
-* [aemet - XSD](http://www.aemet.es/xsd/localidades.xsd)
+* [Introducing JSON](http://www.json.org/)
+* [XML2JSON](https://github.com/hay/xml2json)
+* [Python: Leer un Json](http://javainutil.blogspot.com.es/2013/06/python-leer-un-json.html)
