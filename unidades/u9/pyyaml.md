@@ -4,7 +4,7 @@
 
 En debian/Ubuntu instalamos el gestor de paquetes python pip:
 
-	apt-cache install python3-pip
+	apt-get install python3-pip
 
 E instalamos el páquete:
 
