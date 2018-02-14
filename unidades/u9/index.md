@@ -3,7 +3,7 @@
 ## Teoría
 
 * [Aprende yaml en Y minutos](https://learnxinyminutes.com/docs/es-es/yaml-es/)
-* [Trabajando con YAML desde python3: pyyaml.yaml](pyyaml.html)
+* [Trabajando con YAML desde python3: pyyaml.yaml](../../pyyaml.html)
 
 ## Ejercicios
 
