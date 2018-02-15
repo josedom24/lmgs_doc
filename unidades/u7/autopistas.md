@@ -1,6 +1,6 @@
 # Ejercicio: esquema XML para panales de autopistas
 
-Implementa un esquema XML adecuado para almacenar información de paneles de autopista como el del fichero [autopistas.xml](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u7/fich/factura.xml) con las siguientes características:
+Implementa un esquema XML adecuado para almacenar información de paneles de autopista como el del fichero [autopistas.xml](https://raw.githubusercontent.com/josedom24/lmgs_doc/master/unidades/u7/fich/autopistas.xml) con las siguientes características:
 
 1. El elemento raíz se denomina "paneles"
 2. "paneles" contiene un número indeterminado de elementos denominados "evento"
