@@ -12,5 +12,6 @@ El proyecto de esta evaluación consiste en realizar dos programas en Python que
 * Ejercicio libre, piensa un tipo de ejercicio que sea diferente a los anteriores o una mexcla de alguno de ellos.
 
 	Debes entregar estos enunciados al profesor en cuanto antes para que te de la aprobación de los mismos.
-3. Crea dos repositorios en GiHub (ejercicio_xml y ejercicio_json) donde irás registrando los cambios que vas realizando en los dos programas Python.
+
+Crea dos repositorios en GiHub (ejercicio_xml y ejercicio_json) donde irás registrando los cambios que vas realizando en los dos programas Python.
 
