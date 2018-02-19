@@ -16,7 +16,6 @@
    
 ```
 
-
 ## Recursos
 
 * [Eric Wilde. XML Foundations: XSD - Part I](http://dret.net/lectures/xml-fall10/xsd-1)
