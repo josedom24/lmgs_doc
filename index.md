@@ -10,7 +10,7 @@ El índice de contenidos que vamos a estudiar será:
 
 ```eval_rst
 .. toctree::
-   :maxdepth: 2
-
+   :maxdepth: 3
+   
    unidades/index
 ```
