@@ -3,15 +3,12 @@
 ## Teoría
 
 * [Curso de HTML5 desde cero](https://libro.cursohtml5desdecero.com/)
+* [librosweb.es - Introducción a CSS](http://librosweb.es/libro/css/)
 
 ## Ejercicios
 
-```eval_rst
-.. toctree::
-   :maxdepth: 1
-   
-   
-```
+* [Aprende a crear tu propio sitio Web con HTML5 y CSS3](https://openclassrooms.com/courses/aprende-a-crear-tu-propio-sitio-web-con-html5-y-css3/ejercicio-practico-creacion-de-una-pagina-web-paso-por-paso)
 
 ## Recursos
 
+* [W3C validator](http://validator.w3.org/)
