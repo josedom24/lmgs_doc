@@ -6,6 +6,7 @@
 * [Curso de HTML5 desde cero](https://libro.cursohtml5desdecero.com/)
 * [Tutorial HTML5 de w3c](https://www.w3schools.com/html/default.asp)
 * [librosweb.es - Introducción a CSS](http://librosweb.es/libro/css/)
+* [Tutorial de css de w3c](https://www.w3schools.com/css/default.asp)
 
 ## Ejercicios
 
