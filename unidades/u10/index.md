@@ -14,4 +14,5 @@
 
 ## Recursos
 
+* [Ejemplos de formularios HTML5](https://www.wufoo.com/html5/example/)
 * [W3C validator](http://validator.w3.org/)
