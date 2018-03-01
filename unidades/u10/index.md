@@ -10,7 +10,7 @@
 
 ## Ejercicios
 
-* [Ejemplo de formulario HTML5](formulario.html)
+* [Ejemplo de formulario HTML5](/formulario.html)
 * [Aprende a crear tu propio sitio Web con HTML5 y CSS3](https://openclassrooms.com/courses/aprende-a-crear-tu-propio-sitio-web-con-html5-y-css3/ejercicio-practico-creacion-de-una-pagina-web-paso-por-paso)
 	* [Ficheros](https://github.com/josedom24/lmgs_doc/tree/master/unidades/u10/web)
 
