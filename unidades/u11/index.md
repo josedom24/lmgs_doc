@@ -15,3 +15,4 @@
 
 * [Introducción a los servicios web RESTful](http://www.dosideas.com/noticias/java/314-introduccion-a-los-servicios-web-restful.html)
 * [ProgrammableWeb - APIs, Mashups and the Web as Platform](http://www.programmableweb.com/)
+* [Public APIs](https://github.com/toddmotto/public-apis)
