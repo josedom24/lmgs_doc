@@ -33,7 +33,7 @@ El proyecto consiste en realizar una web sobre alguna temática que te interese.
 
 Debes entregar un documento pdf donde se indidique los siguiente apartados:
 
-* La URL del repositorio FitHub donde has ido guardando los cambios realizados.
+* La URL del repositorio GitHub donde has ido guardando los cambios realizados.
 * La URL de la página donde tienes alojada la página.
 * La URL donde has encontrado las plantillas descargadas y los códigos extra que hayamos incluido en nuestra web (menús,javascript,...).
 * Una breve explicación de cómo hemos subido la página al gosting gratuito que has elegido (¿Qué hoswting has escogido? ¿Qué cliente FTP has utilizado para subir la página?, ¿A qué directorio del servidor remoto has tenido que subir la página?,...)
