@@ -11,6 +11,7 @@
 * [Ejemplos de peticiones a una API RESTful](http://lm.readthedocs.io/en/latest/unidades/u11/rest.html)
 * [Ejemplos librería requests](https://github.com/josedom24/requests_python)
 * [Ejercicios libreria requests](http://lm.readthedocs.io/en/latest/unidades/u11/requests.html)
+* [SWAPI: The Star Wars API](https://github.com/josedom24/swapi_examples)
 
 ## Recursos
 
