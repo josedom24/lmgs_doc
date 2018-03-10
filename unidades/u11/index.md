@@ -2,7 +2,7 @@
 
 ## Teoría
 
-* [Presentación servicios web](http://dit.gonzalonazareno.org/moodle/pluginfile.php/3317/mod_resource/content/1/web-services.pdf)
+* [Presentación servicios web](https://github.com/josedom24/lmgs_doc/raw/master/unidades/u11/doc/web-services.pdf)
 * [Requests: HTTP for Humans](http://docs.python-requests.org/en/latest/)
 * [Instalación de módulos en python3](http://lm.readthedocs.io/en/latest/unidades/u11/virtualenv.html)
 
