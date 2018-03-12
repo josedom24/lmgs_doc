@@ -12,3 +12,5 @@
 * Tablas
 * Formularios
 * Validación
+* Capas: Layout
+
