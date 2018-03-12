@@ -4,7 +4,7 @@
 
 * [Presentación servicios web](https://github.com/josedom24/lmgs_doc/raw/master/unidades/u11/doc/web-services.pdf)
 * [Requests: HTTP for Humans](http://docs.python-requests.org/en/latest/)
-* [Instalación de módulos en python3](http://lm.readthedocs.io/en/latest/unidades/u11/virtualenv.html)
+* [Instalación de módulos en entornos virtuales con python3](http://lm.readthedocs.io/en/latest/unidades/u11/virtualenv.html)
 
 ## Ejercicios
 
