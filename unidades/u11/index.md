@@ -16,5 +16,6 @@
 ## Recursos
 
 * [Introducción a los servicios web RESTful](http://www.dosideas.com/noticias/java/314-introduccion-a-los-servicios-web-restful.html)
+* [Vídeo: ¿Qué es REST?](https://www.youtube.com/watch?v=aoOKxUOhg18)
 * [ProgrammableWeb - APIs, Mashups and the Web as Platform](http://www.programmableweb.com/)
 * [Public APIs](https://github.com/toddmotto/public-apis)
