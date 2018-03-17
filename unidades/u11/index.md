@@ -12,6 +12,7 @@
 * [Ejercicios librería requests](http://lm.readthedocs.io/en/latest/unidades/u11/requests.html)
 	* [Solución ejercicios librería requests](https://github.com/josedom24/requests_python)
 * [SWAPI: The Star Wars API](https://github.com/josedom24/swapi_examples)
+* [Ejercicio: Zomato API](http://lm.readthedocs.io/en/latest/unidades/u11/zomato.html)
 
 ## Recursos
 
