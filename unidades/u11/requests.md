@@ -1,4 +1,4 @@
-	# Ejercicios libreria requests
+# Ejercicios libreria requests
 
 Realiza programas en python que utilizando la librería requests, realicen las siguientes acciones.
 
