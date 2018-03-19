@@ -33,9 +33,9 @@ La información de Nueva York que hay que listar es:
 
 Realiza un programa python basado en los ejercicios anteriores que vaya introduciendo las siguientes funcionalidades:
 
-1. Buscar restaurantes en la ciudad de Nueva York,introduciendo filtros de categoría, colecciones, tipos de cocina, tipos de locales y cadenas de texto.
+1. Posibilitar buscar restaurantes en otra ciudad.
 2. Posibilidad de que la búsqueda anterior se pueda ordenar por un criterio.
-3. Ofrecer información detallada de un restaurante seleccionado.
-4. Ofrecer el menú del día de un restaurante seleccionado.
-5. Posibilitar buscar restaurantes en otra ciudad.
+3. Buscar restaurantes en la ciudad de Nueva York,introduciendo filtros de categoría, colecciones, tipos de cocina, tipos de locales y cadenas de texto.
+4. Ofrecer información detallada de un restaurante seleccionado.
+5. Ofrecer el menú del día de un restaurante seleccionado.
 6. Posibilitar buscar restaurantes en alguna localización.
