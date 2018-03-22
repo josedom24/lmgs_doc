@@ -15,7 +15,7 @@ La página web de Zomato es [https://www.zomato.com](https://www.zomato.com) y l
 La información de Nueva York que hay que listar es:
 
 1. Las colecciones (callections)
-2. Los tipos de cocinas (cousines) 
+2. Los tipos de cocinas (cuisines) 
 3. Los tipos de locales (establishments)
 
 * Busca en la página web esas informaciones en la ciudad de Nueva York.
