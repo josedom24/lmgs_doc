@@ -33,5 +33,6 @@
    :maxdepth: 1
 
    u11/index
+   u12/index
 ```
 
