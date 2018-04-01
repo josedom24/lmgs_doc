@@ -1,17 +1,10 @@
----
-layout: index
+# Ejercicios en Flask
 
-title: Lenguaje de marcas
-tagline: CFGS ASIR
----
-
-### Bottle
-
-1. Realiza una aplicación web con Bottle, que muestre la siguiente página principal:
+1. Realiza una aplicación web con Flask, que muestre la siguiente página principal:
 
 	![calculadora](img/calculadora.png)
 
-	Para ello utiliza la siguiente [plantilla xhtml](fich/BlueBliss.zip).
+	Para ello utiliza la siguiente [plantilla xhtml](http://josedom24.github.io/mod/lm/fich/BlueBliss.zip).
 	
 	Cuando pulsamos el botón de "calcular" se debe mostrar una página con el siguiente aspecto:
 	
@@ -24,8 +17,8 @@ tagline: CFGS ASIR
 	* Museo Arqueológico
 		* Plaza de Amorica, s/n
 		* 954786465
-	* Museo de Artes y Costumbres Populares</SimpleData>
+	* Museo de Artes y Costumbres Populares
 		* Plaza de Amtrica, 3 - Pabellón Mudejar, Parque de Maria Luisa
 		* 954712391
 
-		Los datos los debes leer del fichero [Museos.xml](fich/Museos.xml)
+		Los datos los debes leer del fichero [Museos.xml](http://josedom24.github.io/mod/lm/fich/Museos.xml)
