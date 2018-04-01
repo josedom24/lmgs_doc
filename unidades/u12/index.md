@@ -9,7 +9,7 @@
 
 ## Ejercicios
 
-* [Ejercicios con Flask](./ejercicios.html)
+* [Ejercicios con Flask](http://lm.readthedocs.io/en/latest/unidades/u12/ejercicios.html)
 
 ## Recursos
 
