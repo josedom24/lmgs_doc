@@ -9,7 +9,7 @@
 
 ## Ejercicios
 
-* [Ejercicios con Flask](ejercicios.html)
+* [Ejercicios con Flask](./ejercicios.html)
 
 ## Recursos
 
