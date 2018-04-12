@@ -18,7 +18,7 @@
 		* Plaza de Amorica, s/n
 		* 954786465
 	* Museo de Artes y Costumbres Populares
-		* Plaza de Amtrica, 3 - Pabellón Mudejar, Parque de Maria Luisa
+		* Plaza de America, 3 - Pabellón Mudejar, Parque de Maria Luisa
 		* 954712391
 
 		Los datos los debes leer del fichero [Museos.xml](http://josedom24.github.io/mod/lm/fich/Museos.xml)
