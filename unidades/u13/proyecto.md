@@ -25,7 +25,7 @@ Para hacer una estimación de la nota que puedes sacar en el proyecto se seguir�
 	* GET, POST, ..., **2 puntos**
 * ¿Qué tipo de autentificación tiene la API utilizada?
 	* Es libre, con usuario/contraseña o con API key, **1 punto**
-	* Utiliza sistemas de autentificación 7 autorización como oauth1 o oauth2, **2 puntos**.
+	* Utiliza sistemas de autentificación y autorización como oauth1 o oauth2, **2 puntos**.
 * ¿Cuantas cosas hace la aplicación?, podemos pensar cuantos @route va a tener nuestro programa Flask:
 	* 4 o menos, **1 punto**
 	* Más de 4, **2 puntos**
