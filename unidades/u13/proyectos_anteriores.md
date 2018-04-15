@@ -2,6 +2,14 @@
 
 ### 2016-2017
 
+#### Angel Almazán
+
+BuscaConciertos: El proyecto tiene como objetivo facilitar la búsqueda de conciertos en tus areas cercanas o en todo el mundo, mientras a lmsmo tiempo ofrece la psoibilidad de escuar la música del grupo en cuestión.
+
+* Github: [https://github.com/Sniper3031/heroku](https://github.com/Sniper3031/heroku)
+* Web: [https://buscaconciertos.herokuapp.com/](https://buscaconciertos.herokuapp.com/)
+
+
 #### Adrián Silva
 
 GuitarTube: Busqueda de artista,canciones, acordes,imágenes y videos.
