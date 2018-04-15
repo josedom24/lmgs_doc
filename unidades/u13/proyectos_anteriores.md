@@ -53,6 +53,20 @@ youtwitt: Buscar videos en youtube, Buscar canales en youtube, Publica videos en
 * Github: [https://github.com/danibascon/proyecto](https://github.com/danibascon/proyecto)
 * Web: [https://youtwitt.herokuapp.com/](https://youtwitt.herokuapp.com/)
 
+#### Juan José López
+
+Thepowersearch: Hacer una aplicacion que indiques un lugar "Sevilla","Jerez" e indicandole el tipo de establecimiento te muestre distintos establecimientos o sitios de interes que hay cerca del lugar indicado a traves de un radio indicado en Kilometros, los resultados que te mostrará son el nombre del lugar, la calle en la que se encuentra, un mapa que si haces clic en él te redireccionará al lugar en google maps, ademas de ello si ese lugar te ha gustado tiene habilitado un boton de compartir via twitter para asi indicar tu gusto sobre ese lugar en esta red social.
+
+* Github: [https://github.com/juanjoselopezroldan/proyectoapi](https://github.com/juanjoselopezroldan/proyectoapi)
+* Web: [https://googlemapsitios.herokuapp.com/](https://googlemapsitios.herokuapp.com/)
+
+#### Adan Reina
+
+PersonalOrder: El objetivo principal del proyecto es poder manejar el calendario de google desde mi programa, pudiendo añadir eventos, eliminarlos, modificarlos y consultar todos los datos almacenados en la cuenta de google calendar.
+
+* Github: [https://github.com/AdanReina2/PersonalOrder](https://github.com/AdanReina2/PersonalOrder)
+* Web: [https://personalorder.herokuapp.com/](https://personalorder.herokuapp.com/)
+
 #### María Romero
 
 Music Informator: La aplicación nos permitirá buscar datos de artistas, canciones, top listas y nos mostrará nuestras playslists de Spotify.
@@ -60,6 +74,21 @@ Music Informator: La aplicación nos permitirá buscar datos de artistas, cancio
 
 * Github: [http://github.com/marromang/musicinformator](http://github.com/marromang/musicinformator)
 * Web: [https://musicinformator.herokuapp.com/](https://musicinformator.herokuapp.com/)
+
+#### Jaun María Cobo
+
+tuviajeideal: Página que busque vuelos de avión con unas características concretas impuestas por el usuario.
+
+* Github: [https://github.com/juanmacobo/tuviajeideal](https://github.com/juanmacobo/tuviajeideal)
+* Web: [https://tuviajeideal-juanmacobo.rhcloud.com](https://tuviajeideal-juanmacobo.rhcloud.com)
+
+
+#### Sergio García
+
+MySoundData: Aplicacion que al introducir un nombre de pelicula, te devuelve la ficha de la pelicula, y una lista de reproduccion de la banda sonora de la pelicula en spotify.
+
+* Github: [https://github.com/SergioGO96/mysoundata](https://github.com/SergioGO96/mysoundata)
+* Web: [https://mysoundata.herokuapp.com/](https://mysoundata.herokuapp.com/)
 
 #### Kevin Ariza
 
