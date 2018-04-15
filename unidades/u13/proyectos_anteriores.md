@@ -53,12 +53,27 @@ youtwitt: Buscar videos en youtube, Buscar canales en youtube, Publica videos en
 * Github: [https://github.com/danibascon/proyecto](https://github.com/danibascon/proyecto)
 * Web: [https://youtwitt.herokuapp.com/](https://youtwitt.herokuapp.com/)
 
+#### María Romero
+
+Music Informator: La aplicación nos permitirá buscar datos de artistas, canciones, top listas y nos mostrará nuestras playslists de Spotify.
+
+
+* Github: [http://github.com/marromang/musicinformator](http://github.com/marromang/musicinformator)
+* Web: [https://musicinformator.herokuapp.com/](https://musicinformator.herokuapp.com/)
+
 #### Kevin Ariza
 
 "SwissKnife (Search)": Permite utilizar cuatro buscadores, que son: GIF, Imagen, Vídeo y Canción.
 
 * Github: [https://github.com/kevinredfield69/proyecto_swissknife_search](https://github.com/kevinredfield69/proyecto_swissknife_search)
 * Web: [https://swissknifesearch.herokuapp.com](https://swissknifesearch.herokuapp.com)
+
+#### Daniel Cumplido
+
+League of Legends Simulator: Objetivos, descripción y funcionalidad del proyecto:Simular batallas uno contra uno con los personajes del juego para poder recabar datos sobre puntos fuertes y debilidades de estos.
+
+* Github: [https://github.com/Naxilde/LoL-Simulator](https://github.com/Naxilde/LoL-Simulator)
+* Web: [https://leagueoflegendsimulator.herokuapp.com/](https://leagueoflegendsimulator.herokuapp.com/)
 
 #### Francisco José Romero
 
