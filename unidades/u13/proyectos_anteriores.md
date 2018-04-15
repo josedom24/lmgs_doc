@@ -25,6 +25,13 @@ Pedir los partidos que se estadoén jugando en el momento, para conocer en que e
 * Github: [https://github.com/DavidTinoco/geoscores](https://github.com/DavidTinoco/geoscores)
 * Web: [https://geoscores.herokuapp.com](https://geoscores.herokuapp.com)
 
+#### Manuel Franco
+
+NBA24/7:  Mostrar información de los equipos de la nba, de sus jugadores, la ubicación de su pabellon así como las últimas noticias referentes.
+
+* Github: [https://github.com/manu756/NbaToday](https://github.com/manu756/NbaToday)
+* Web: [https://nba247.herokuapp.com](https://nba247.herokuapp.com)
+
 #### Miguel Vargas
 
 VargaxTune: Busca Música mediante itunes. Podemos buscar por album,cancion o artista. En caso de que busquemos por album nos saldrá los distintos albumes que se encontraron por nuestra busqueda y si le pinchamos en algun album nos saldrá las distintas canciones del album con un pequeño reproductor donde podremos escuchar un trozo de la canción al lado tendremo un botón de me gusta si pinchamos nos pedirá nuestro correo y nos enviará un correo con la canción que nos gusto el album y el artista además nos dará la opción de enviar un tweet diciendonos que dicha canción nos ha gustado.En caso de que busquemos por canción nos saldrá las canciones con el término de busqueda que le pusimos y tendremos la opción de ir también al album de dicha canción y al igual que antes tendrá el botón de me gusta con sus mismas funciones. Y por último si buscamos por artista nos saldán los distintos artistas con nuestro término de busqueda y podremos ver también sus albumes con sus respectivas canciones y el botón de me gusta como antes.
@@ -38,6 +45,27 @@ BBuveame: Obetener los datos de la cuenta de un usuario BBVA inventado .
 
 * Github: [https://github.com/misaelo2/ProyectoMarcasAPP](https://github.com/misaelo2/ProyectoMarcasAPP)
 * Web: [https://bbuveame.herokuapp.com](https://bbuveame.herokuapp.com)
+
+#### Daniel Bascón
+
+youtwitt: Buscar videos en youtube, Buscar canales en youtube, Publica videos en twitter, Publica videos en twitter, Busca la letra de los videos en Musixmatch
+
+* Github: [https://github.com/danibascon/proyecto](https://github.com/danibascon/proyecto)
+* Web: [https://youtwitt.herokuapp.com/](https://youtwitt.herokuapp.com/)
+
+#### Kevin Ariza
+
+"SwissKnife (Search)": Permite utilizar cuatro buscadores, que son: GIF, Imagen, Vídeo y Canción.
+
+* Github: [https://github.com/kevinredfield69/proyecto_swissknife_search](https://github.com/kevinredfield69/proyecto_swissknife_search)
+* Web: [https://swissknifesearch.herokuapp.com](https://swissknifesearch.herokuapp.com)
+
+#### Francisco José Romero
+
+The Media Finder: Aplicación que usa la API de The Movie Database y la API de Youtube para mostrar información sobre series y películas. Con la API de The Movie Database obtengo el titulo y sinopsis, mientras que con la API de Youtube obtengo videos sobre la película o serie. Además, con la API de twitter puedes poner en tu twitter que series o películas te han gustado.
+
+* Github: [https://github.com/FranciscoRomero23/appheroku](https://github.com/FranciscoRomero23/appheroku)
+* Web: [https://themediafinder.herokuapp.com/](https://themediafinder.herokuapp.com/)
 
 #### Angel Almazán
 
