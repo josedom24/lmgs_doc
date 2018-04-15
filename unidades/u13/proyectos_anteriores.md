@@ -20,10 +20,24 @@ geoscores: Mostrar información de las jornadas de la liga española de fútbol.
 El usuario podrá:
 Indicar una jornada, y le aparecerá en google maps, en el estadio dónde se va a disputar o se ha disputado el partido (junto al resultado)
 Indicar una jornada, y le aparecerá el estado de la clasificación en esa jornada
-Pedir los partidos que se estén jugando en el momento, para conocer en que estado se encuentra el partido
+Pedir los partidos que se estadoén jugando en el momento, para conocer en que estado se encuentra el partido
 
 * Github: [https://github.com/DavidTinoco/geoscores](https://github.com/DavidTinoco/geoscores)
 * Web: [https://geoscores.herokuapp.com](https://geoscores.herokuapp.com)
+
+#### Miguel Vargas
+
+VargaxTune: Busca Música mediante itunes. Podemos buscar por album,cancion o artista. En caso de que busquemos por album nos saldrá los distintos albumes que se encontraron por nuestra busqueda y si le pinchamos en algun album nos saldrá las distintas canciones del album con un pequeño reproductor donde podremos escuchar un trozo de la canción al lado tendremo un botón de me gusta si pinchamos nos pedirá nuestro correo y nos enviará un correo con la canción que nos gusto el album y el artista además nos dará la opción de enviar un tweet diciendonos que dicha canción nos ha gustado.En caso de que busquemos por canción nos saldrá las canciones con el término de busqueda que le pusimos y tendremos la opción de ir también al album de dicha canción y al igual que antes tendrá el botón de me gusta con sus mismas funciones. Y por último si buscamos por artista nos saldán los distintos artistas con nuestro término de busqueda y podremos ver también sus albumes con sus respectivas canciones y el botón de me gusta como antes.
+
+* Github: [https://github.com/Vargax01/API](https://github.com/Vargax01/API)
+* Web: [https://vargaxtune.herokuapp.com/](https://vargaxtune.herokuapp.com/)
+
+#### Misael Noda
+
+BBuveame: Obetener los datos de la cuenta de un usuario BBVA inventado .
+
+* Github: [https://github.com/misaelo2/ProyectoMarcasAPP](https://github.com/misaelo2/ProyectoMarcasAPP)
+* Web: [https://bbuveame.herokuapp.com](https://bbuveame.herokuapp.com)
 
 #### Angel Almazán
 
