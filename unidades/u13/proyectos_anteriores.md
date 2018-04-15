@@ -2,6 +2,29 @@
 
 ### 2016-2017
 
+#### Sergio Terán
+
+PriceTracker: La aplicacion web servirá para saber cuándo un producto a la venta en amazon llega
+a un precio determinado tras lo cual nos avisará por correo o al movil
+
+La web dispondrá de un formulario en el que podemos introducir el nombre de un producto, muestra una lista de los artículos mas revelantes relacionados con la cadena introducida y sus precios actuales donde podremos elejir un artículo, a qué precio queremos que nos avise y dónde queremos el aviso (por correo o a alguna aplicación de mensajeria móvil). Para este cometido además dispondrá un programa que vaya realizando peticiones automáticamente y una pequeña base de datos donde se iran guardando los nuevos precios de los artículos elejidos hasta que coincida con el valor deseado.
+
+* Github: [https://github.com/Sergiotm87/AmazonPriceTracker](https://github.com/Sergiotm87/AmazonPriceTracker)
+* Web: [https://pricetrackeramazon.herokuapp.com/
+](https://pricetrackeramazon.herokuapp.com/
+)
+
+#### David Tinoco
+
+geoscores: Mostrar información de las jornadas de la liga española de fútbol.
+El usuario podrá:
+Indicar una jornada, y le aparecerá en google maps, en el estadio dónde se va a disputar o se ha disputado el partido (junto al resultado)
+Indicar una jornada, y le aparecerá el estado de la clasificación en esa jornada
+Pedir los partidos que se estén jugando en el momento, para conocer en que estado se encuentra el partido
+
+* Github: [https://github.com/DavidTinoco/geoscores](https://github.com/DavidTinoco/geoscores)
+* Web: [https://geoscores.herokuapp.com](https://geoscores.herokuapp.com)
+
 #### Angel Almazán
 
 BuscaConciertos: El proyecto tiene como objetivo facilitar la búsqueda de conciertos en tus areas cercanas o en todo el mundo, mientras a lmsmo tiempo ofrece la psoibilidad de escuar la música del grupo en cuestión.
