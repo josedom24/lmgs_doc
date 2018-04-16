@@ -15,10 +15,10 @@
 3. Realiza una página web donde se muestre una lista de museos de Sevilla usando listas html, de la siguiente manera:
 
 	* Museo Arqueológico
-		* Plaza de Amorica, s/n
+		* Plaza de América, s/n
 		* 954786465
 	* Museo de Artes y Costumbres Populares
-		* Plaza de America, 3 - Pabellón Mudejar, Parque de Maria Luisa
+		* Plaza de América, 3 - Pabellón Mudejar, Parque de Maria Luisa
 		* 954712391
 
 		Los datos los debes leer del fichero [Museos.xml](http://josedom24.github.io/mod/lm/fich/Museos.xml)
