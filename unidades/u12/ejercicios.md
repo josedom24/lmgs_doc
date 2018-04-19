@@ -12,13 +12,21 @@
 	
 2. Realiza una página web que muestre la tabla de multiplicar de un número indicado en la URL.	Por ejemplo http://localhost:8080/tabla/6 muestra una página con la tabla de multiplicar del 6.
 
-3. Realiza una página web donde se muestre una lista de museos de Sevilla usando listas html, de la siguiente manera:
+3. Realiza una página web donde se muestre una lista de museos de Sevilla, de la siguiente manera:
+
+	* Museo Arqueológico
+	* Museo de Artes y Costumbres Populares
+	* Museo Casa de Murillo
+	* Museo de Baile Flamenco
+	* Museo de Bellas Artes
+	* Museo de Carruajes
+	* Museo de la Ciudad, Convento Sta. Clara, Torre D. Fadrique
+	* Museo de la Congregación de Terciarias Franciscanas
+
+Cada nombre de museo será un enlace que me llevará a otra página con los detalles del museo:
 
 	* Museo Arqueológico
 		* Plaza de América, s/n
 		* 954786465
-	* Museo de Artes y Costumbres Populares
-		* Plaza de América, 3 - Pabellón Mudejar, Parque de Maria Luisa
-		* 954712391
-
-		Los datos los debes leer del fichero [Museos.xml](http://josedom24.github.io/mod/lm/fich/Museos.xml)
+	
+Los datos los debes leer del fichero [Museos.xml](http://josedom24.github.io/mod/lm/fich/Museos.xml)
