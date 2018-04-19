@@ -30,3 +30,5 @@ Cada nombre de museo será un enlace que me llevará a otra página con los deta
 		* 954786465
 	
 Los datos los debes leer del fichero [Museos.xml](http://josedom24.github.io/mod/lm/fich/Museos.xml)
+
+[Ejercicios resuletos]()
