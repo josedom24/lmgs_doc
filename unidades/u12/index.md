@@ -7,7 +7,7 @@
 * [flask: Trabajando con peticiones y respuestas (3ª parte)](https://www.josedomingo.org/pledin/2018/03/flask-trabajando-con-peticiones-y-respuestas-3a-parte/)
 * [flask: Plantillas con jinja2 (4ª parte)](https://www.josedomingo.org/pledin/2018/03/flask-plantillas-con-jinja2-4a-parte)
 
-* [Despliegue de aplicación flask en un PaaS Heroku]((http://lm.readthedocs.io/en/latest/unidades/u12/heroku.html))
+* [Despliegue de aplicación flask en un PaaS Heroku](http://lm.readthedocs.io/en/latest/unidades/u12/heroku.html)
 
 ## Ejercicios
 
