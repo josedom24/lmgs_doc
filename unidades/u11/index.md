@@ -6,6 +6,10 @@
 * [Requests: HTTP for Humans](http://docs.python-requests.org/en/latest/)
 * [Instalación de módulos en entornos virtuales con python3](http://lm.readthedocs.io/en/latest/unidades/u11/virtualenv.html)
 
+### oauth
+
+* [repositorio aplicación oauth](https://github.com/josedom24/flask_oauth)
+
 ## Ejercicios
 
 * [Ejemplos de peticiones a una API RESTful](http://lm.readthedocs.io/en/latest/unidades/u11/rest.html)
