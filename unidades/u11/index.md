@@ -8,7 +8,8 @@
 
 ### oauth
 
-* [repositorio aplicación oauth](https://github.com/josedom24/flask_oauth)
+* [Repositorio aplicación oauth](https://github.com/josedom24/flask_oauth)
+* [Aplicación oauth](http://oauth-jd.herokuapp.com/)
 
 ## Ejercicios
 
